@@ -1,0 +1,37 @@
+
+Welcome to Java Import Made Easy (JavaIME)
+===========================================
+
+This Sublime text package makes it easy to import virtually all Java package.
+
+
+How to Use
+==========
+
+On a Java file in sublime text, click on the line where you want to import the Java Package then type the package name name all in uppercase and suggestions should follow.
+
+
+Example
+=======
+
+To import the "java.utils.Collections package", type COLLECTIONS in (uppercase). Suggestions should already be popping up then press TAB to select. The package will be automatically imported like
+
+	import java.utils.Collections package
+
+
+Contact
+=======
+
+Feel free to contact me on taiwo.kareem36@gmail.com for enquiries and donation to help the creator.
+
+Acknowledgements
+================
+
+To God be all the glory
+
+License
+=======
+
+MIT 
+
+
