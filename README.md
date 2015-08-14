@@ -77,9 +77,6 @@ This is free software. It is licensed under the MIT License. Feel free to use th
 ## Acknowledgements
 I'd first like to say a very big thank you to God my creator. Without him, this wouldn't be possible.
 
-## Donating
-> If you would like to show appreciation for the efforts and time spent making this, Please contact me on my email **taiwo.kareem36@gmail.com**
-
 
 
 
