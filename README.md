@@ -3,7 +3,7 @@
 # Java Import Made Easy (JavaIME)
 
 ## About
-**JavaIME** is a Sublime text package that makes importing any java package easy.
+**JavaIME** is a Sublime text package that makes importing any java package easy without worrying about namespacing.
 
 ## Installation
 > Important: You need to have `Package Control` installed first on your sublime text which can be found at [The Package Contol Website](http://packagecontrol.io)
