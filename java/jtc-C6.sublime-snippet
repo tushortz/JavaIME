@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.chrono.Chronology;
+]]></content>
+	<tabTrigger>CHRONOLOGY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

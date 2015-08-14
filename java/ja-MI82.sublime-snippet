@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.MenuItem;
+]]></content>
+	<tabTrigger>MENUITEM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

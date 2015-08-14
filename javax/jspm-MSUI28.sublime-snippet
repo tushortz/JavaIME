@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.plaf.metal.MetalSeparatorUI;
+]]></content>
+	<tabTrigger>METALSEPARATORUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

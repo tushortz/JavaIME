@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.beans.beancontext.BeanContextMembershipEvent;
+]]></content>
+	<tabTrigger>BEANCONTEXTMEMBERSHIPEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

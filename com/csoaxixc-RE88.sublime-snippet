@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xalan.internal.xsltc.compiler.RelationalExpr;
+]]></content>
+	<tabTrigger>RELATIONALEXPR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

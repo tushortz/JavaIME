@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.event.MouseWheelListener;
+]]></content>
+	<tabTrigger>MOUSEWHEELLISTENER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

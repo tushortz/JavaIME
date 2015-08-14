@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.undo.CannotUndoException;
+]]></content>
+	<tabTrigger>CANNOTUNDOEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.Arrays;
+]]></content>
+	<tabTrigger>ARRAYS</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Java Package</description>
+</snippet>

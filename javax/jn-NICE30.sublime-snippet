@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.naming.NoInitialContextException;
+]]></content>
+	<tabTrigger>NOINITIALCONTEXTEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

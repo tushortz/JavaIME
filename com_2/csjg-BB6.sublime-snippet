@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.geom.BoxBounds;
+]]></content>
+	<tabTrigger>BOXBOUNDS</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

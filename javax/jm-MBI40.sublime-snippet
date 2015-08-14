@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.MBeanInfo;
+]]></content>
+	<tabTrigger>MBEANINFO</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

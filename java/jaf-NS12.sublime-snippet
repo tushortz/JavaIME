@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.font.NumericShaper;
+]]></content>
+	<tabTrigger>NUMERICSHAPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.FileNameMap;
+]]></content>
+	<tabTrigger>FILENAMEMAP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

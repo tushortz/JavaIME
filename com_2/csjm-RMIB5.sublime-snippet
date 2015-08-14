@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.menu.RadioMenuItemBase;
+]]></content>
+	<tabTrigger>RADIOMENUITEMBASE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

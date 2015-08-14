@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.server.UID;
+]]></content>
+	<tabTrigger>UID</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

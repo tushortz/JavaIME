@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.runtime.async.AsyncOperationListener;
+]]></content>
+	<tabTrigger>ASYNCOPERATIONLISTENER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

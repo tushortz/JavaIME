@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.KeyboardManager;
+]]></content>
+	<tabTrigger>KEYBOARDMANAGER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.management.ThreadMXBean;
+]]></content>
+	<tabTrigger>THREADMXBEAN</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

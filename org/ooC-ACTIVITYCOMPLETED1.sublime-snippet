@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.ACTIVITY_COMPLETED;
+]]></content>
+	<tabTrigger>ACTIVITY_COMPLETED</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

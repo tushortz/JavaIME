@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.bind.PrintConversionEvent;
+]]></content>
+	<tabTrigger>PRINTCONVERSIONEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

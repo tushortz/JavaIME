@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.naming.directory.BasicAttributes;
+]]></content>
+	<tabTrigger>BASICATTRIBUTES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

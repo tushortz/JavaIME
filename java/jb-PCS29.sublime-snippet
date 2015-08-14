@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.beans.PropertyChangeSupport;
+]]></content>
+	<tabTrigger>PROPERTYCHANGESUPPORT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

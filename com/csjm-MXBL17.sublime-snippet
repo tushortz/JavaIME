@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.mbeanserver.MXBeanLookup;
+]]></content>
+	<tabTrigger>MXBEANLOOKUP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

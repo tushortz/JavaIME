@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.FilterInputStream;
+]]></content>
+	<tabTrigger>FILTERINPUTSTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

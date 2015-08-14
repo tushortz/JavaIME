@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.imageio.plugins.common.StandardMetadataFormatResources;
+]]></content>
+	<tabTrigger>STANDARDMETADATAFORMATRESOURCES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.text.html.BRView;
+]]></content>
+	<tabTrigger>BRVIEW</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

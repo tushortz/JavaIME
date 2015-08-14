@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.ContainerOrderFocusTraversalPolicy;
+]]></content>
+	<tabTrigger>CONTAINERORDERFOCUSTRAVERSALPOLICY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

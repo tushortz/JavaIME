@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.xpath.XPathConstants;
+]]></content>
+	<tabTrigger>XPATHCONSTANTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

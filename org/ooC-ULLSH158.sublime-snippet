@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.ULongLongSeqHolder;
+]]></content>
+	<tabTrigger>ULONGLONGSEQHOLDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

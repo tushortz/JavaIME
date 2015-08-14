@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.server.RMIFailureHandler;
+]]></content>
+	<tabTrigger>RMIFAILUREHANDLER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

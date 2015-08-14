@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.embed.AbstractEvents;
+]]></content>
+	<tabTrigger>ABSTRACTEVENTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

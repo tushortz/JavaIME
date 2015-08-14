@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.TextField;
+]]></content>
+	<tabTrigger>TEXTFIELD</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

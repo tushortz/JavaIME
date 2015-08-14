@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.generic.ACONST_NULL;
+]]></content>
+	<tabTrigger>ACONST_NULL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

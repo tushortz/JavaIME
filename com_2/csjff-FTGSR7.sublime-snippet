@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.font.freetype.FT_GlyphSlotRec;
+]]></content>
+	<tabTrigger>FT_GLYPHSLOTREC</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.RunnableFuture;
+]]></content>
+	<tabTrigger>RUNNABLEFUTURE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

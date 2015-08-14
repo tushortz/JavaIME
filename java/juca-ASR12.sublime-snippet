@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.atomic.AtomicStampedReference;
+]]></content>
+	<tabTrigger>ATOMICSTAMPEDREFERENCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

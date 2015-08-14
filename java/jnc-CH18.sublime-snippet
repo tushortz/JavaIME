@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.channels.CompletionHandler;
+]]></content>
+	<tabTrigger>COMPLETIONHANDLER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

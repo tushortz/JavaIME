@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.event.TreeSelectionEvent;
+]]></content>
+	<tabTrigger>TREESELECTIONEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

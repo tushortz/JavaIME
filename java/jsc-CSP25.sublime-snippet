@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.cert.CertStoreParameters;
+]]></content>
+	<tabTrigger>CERTSTOREPARAMETERS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

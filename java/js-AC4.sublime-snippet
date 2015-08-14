@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.AlgorithmConstraints;
+]]></content>
+	<tabTrigger>ALGORITHMCONSTRAINTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

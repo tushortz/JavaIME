@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.beans.beancontext.BeanContextServicesListener;
+]]></content>
+	<tabTrigger>BEANCONTEXTSERVICESLISTENER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.tk.quantum.GlassViewEventHandler;
+]]></content>
+	<tabTrigger>GLASSVIEWEVENTHANDLER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.PipedWriter;
+]]></content>
+	<tabTrigger>PIPEDWRITER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

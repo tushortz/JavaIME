@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.text.DefaultStyledDocument;
+]]></content>
+	<tabTrigger>DEFAULTSTYLEDDOCUMENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

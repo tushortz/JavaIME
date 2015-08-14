@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.InvalidPropertiesFormatException;
+]]></content>
+	<tabTrigger>INVALIDPROPERTIESFORMATEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

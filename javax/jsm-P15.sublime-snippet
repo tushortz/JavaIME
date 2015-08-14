@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.sound.midi.Patch;
+]]></content>
+	<tabTrigger>PATCH</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

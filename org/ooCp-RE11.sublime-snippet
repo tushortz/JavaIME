@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.portable.RemarshalException;
+]]></content>
+	<tabTrigger>REMARSHALEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

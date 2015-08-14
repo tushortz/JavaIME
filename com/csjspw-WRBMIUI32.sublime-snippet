@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.windows.WindowsRadioButtonMenuItemUI;
+]]></content>
+	<tabTrigger>WINDOWSRADIOBUTTONMENUITEMUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

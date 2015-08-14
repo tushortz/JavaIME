@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.portable.ValueOutputStream;
+]]></content>
+	<tabTrigger>VALUEOUTPUTSTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

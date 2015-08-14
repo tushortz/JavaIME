@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org/xml.sax.helpers.XMLReaderFactory;
+]]></content>
+	<tabTrigger>XMLREADERFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org/Xml Package</description>
+</snippet>

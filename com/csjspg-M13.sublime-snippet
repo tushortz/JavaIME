@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.gtk.Metacity;
+]]></content>
+	<tabTrigger>METACITY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

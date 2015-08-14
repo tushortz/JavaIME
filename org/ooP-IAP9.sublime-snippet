@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableServer.IdAssignmentPolicy;
+]]></content>
+	<tabTrigger>IDASSIGNMENTPOLICY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

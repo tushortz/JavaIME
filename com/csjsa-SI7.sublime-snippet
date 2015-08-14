@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.agent.SnmpIndex;
+]]></content>
+	<tabTrigger>SNMPINDEX</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

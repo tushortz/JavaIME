@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.security.auth.login.Configuration;
+]]></content>
+	<tabTrigger>CONFIGURATION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.transform.TransformUtils;
+]]></content>
+	<tabTrigger>TRANSFORMUTILS</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

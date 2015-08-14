@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org/xml.sax.Attributes;
+]]></content>
+	<tabTrigger>ATTRIBUTES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org/Xml Package</description>
+</snippet>

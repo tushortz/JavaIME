@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.util.LocatorWrapper;
+]]></content>
+	<tabTrigger>LOCATORWRAPPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

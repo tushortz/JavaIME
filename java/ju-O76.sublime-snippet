@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.Observer;
+]]></content>
+	<tabTrigger>OBSERVER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

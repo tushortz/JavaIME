@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.impl.dtd.BalancedDTDGrammar;
+]]></content>
+	<tabTrigger>BALANCEDDTDGRAMMAR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

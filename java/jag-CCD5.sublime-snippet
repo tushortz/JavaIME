@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.geom.CubicCurve2D;
+]]></content>
+	<tabTrigger>CUBICCURVE2D</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.security.auth.NTNumericCredential;
+]]></content>
+	<tabTrigger>NTNUMERICCREDENTIAL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

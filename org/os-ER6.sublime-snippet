@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org/xml.sax.EntityResolver;
+]]></content>
+	<tabTrigger>ENTITYRESOLVER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org/Xml Package</description>
+</snippet>

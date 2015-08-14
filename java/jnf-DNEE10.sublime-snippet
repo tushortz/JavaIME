@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.DirectoryNotEmptyException;
+]]></content>
+	<tabTrigger>DIRECTORYNOTEMPTYEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

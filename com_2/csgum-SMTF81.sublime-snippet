@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.monocle.SmallMoveTouchFilter;
+]]></content>
+	<tabTrigger>SMALLMOVETOUCHFILTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

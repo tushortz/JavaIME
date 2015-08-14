@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.motif.resources.motif_ko;
+]]></content>
+	<tabTrigger>MOTIF_KO</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

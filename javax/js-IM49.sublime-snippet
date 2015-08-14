@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.InputMap;
+]]></content>
+	<tabTrigger>INPUTMAP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

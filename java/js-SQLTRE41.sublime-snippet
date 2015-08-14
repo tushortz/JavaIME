@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.sql.SQLTransactionRollbackException;
+]]></content>
+	<tabTrigger>SQLTRANSACTIONROLLBACKEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

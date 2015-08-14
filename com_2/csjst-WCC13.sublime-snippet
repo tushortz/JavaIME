@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.traversal.WeightedClosestCorner;
+]]></content>
+	<tabTrigger>WEIGHTEDCLOSESTCORNER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

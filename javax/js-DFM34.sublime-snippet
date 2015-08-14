@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.DefaultFocusManager;
+]]></content>
+	<tabTrigger>DEFAULTFOCUSMANAGER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

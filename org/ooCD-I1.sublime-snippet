@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.DynAnyPackage.Invalid;
+]]></content>
+	<tabTrigger>INVALID</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.utils.EncryptionConstants;
+]]></content>
+	<tabTrigger>ENCRYPTIONCONSTANTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.remote.security.MBeanServerFileAccessController;
+]]></content>
+	<tabTrigger>MBEANSERVERFILEACCESSCONTROLLER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

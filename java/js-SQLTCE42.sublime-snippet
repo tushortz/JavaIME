@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.sql.SQLTransientConnectionException;
+]]></content>
+	<tabTrigger>SQLTRANSIENTCONNECTIONEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

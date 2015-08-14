@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.imageio.metadata.IIOMetadataNode;
+]]></content>
+	<tabTrigger>IIOMETADATANODE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.image.codec.jpeg.JPEGHuffmanTable;
+]]></content>
+	<tabTrigger>JPEGHUFFMANTABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

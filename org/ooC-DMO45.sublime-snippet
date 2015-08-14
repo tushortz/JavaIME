@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.DomainManagerOperations;
+]]></content>
+	<tabTrigger>DOMAINMANAGEROPERATIONS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

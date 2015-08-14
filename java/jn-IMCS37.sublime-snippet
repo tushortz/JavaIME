@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.InMemoryCookieStore;
+]]></content>
+	<tabTrigger>INMEMORYCOOKIESTORE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

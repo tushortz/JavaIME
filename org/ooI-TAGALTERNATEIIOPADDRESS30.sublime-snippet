@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.TAG_ALTERNATE_IIOP_ADDRESS;
+]]></content>
+	<tabTrigger>TAG_ALTERNATE_IIOP_ADDRESS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

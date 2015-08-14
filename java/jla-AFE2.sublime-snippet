@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.annotation.AnnotationFormatError;
+]]></content>
+	<tabTrigger>ANNOTATIONFORMATERROR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.TimeZone;
+]]></content>
+	<tabTrigger>TIMEZONE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

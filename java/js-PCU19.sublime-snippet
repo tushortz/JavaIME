@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.sql.PseudoColumnUsage;
+]]></content>
+	<tabTrigger>PSEUDOCOLUMNUSAGE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

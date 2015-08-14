@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.DynUnion;
+]]></content>
+	<tabTrigger>DYNUNION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

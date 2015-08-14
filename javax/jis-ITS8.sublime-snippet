@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.imageio.spi.ImageTranscoderSpi;
+]]></content>
+	<tabTrigger>IMAGETRANSCODERSPI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

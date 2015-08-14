@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.FileNotFoundException;
+]]></content>
+	<tabTrigger>FILENOTFOUNDEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

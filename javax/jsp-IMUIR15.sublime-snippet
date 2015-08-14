@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.plaf.InputMapUIResource;
+]]></content>
+	<tabTrigger>INPUTMAPUIRESOURCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

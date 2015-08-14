@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.j2d.J2DPipeline;
+]]></content>
+	<tabTrigger>J2DPIPELINE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.gtk.GtkView;
+]]></content>
+	<tabTrigger>GTKVIEW</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

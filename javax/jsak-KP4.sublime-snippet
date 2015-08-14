@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.security.auth.kerberos.KerberosPrincipal;
+]]></content>
+	<tabTrigger>KERBEROSPRINCIPAL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

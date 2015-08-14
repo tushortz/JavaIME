@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.dom.EntityReferenceImpl;
+]]></content>
+	<tabTrigger>ENTITYREFERENCEIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

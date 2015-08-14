@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.scene.input.KeyCode;
+]]></content>
+	<tabTrigger>KEYCODE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

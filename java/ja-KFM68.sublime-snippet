@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.KeyboardFocusManager;
+]]></content>
+	<tabTrigger>KEYBOARDFOCUSMANAGER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

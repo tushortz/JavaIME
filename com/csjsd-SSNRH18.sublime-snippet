@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.daemon.SnmpSubNextRequestHandler;
+]]></content>
+	<tabTrigger>SNMPSUBNEXTREQUESTHANDLER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

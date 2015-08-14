@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.ARG_OUT;
+]]></content>
+	<tabTrigger>ARG_OUT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

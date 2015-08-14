@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.crypto.KeySelectorResult;
+]]></content>
+	<tabTrigger>KEYSELECTORRESULT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

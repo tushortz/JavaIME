@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.beans.PropertyEditorManager;
+]]></content>
+	<tabTrigger>PROPERTYEDITORMANAGER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

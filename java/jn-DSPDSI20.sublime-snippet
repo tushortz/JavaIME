@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.DualStackPlainDatagramSocketImpl;
+]]></content>
+	<tabTrigger>DUALSTACKPLAINDATAGRAMSOCKETIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

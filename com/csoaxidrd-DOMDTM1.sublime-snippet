@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.dtm.ref.dom2dtm.DOM2DTM;
+]]></content>
+	<tabTrigger>DOM2DTM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

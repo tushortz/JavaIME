@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.GraphicsDevice;
+]]></content>
+	<tabTrigger>GRAPHICSDEVICE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

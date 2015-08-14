@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.font.freetype.PangoGlyphString;
+]]></content>
+	<tabTrigger>PANGOGLYPHSTRING</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

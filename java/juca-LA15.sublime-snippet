@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.atomic.LongAccumulator;
+]]></content>
+	<tabTrigger>LONGACCUMULATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

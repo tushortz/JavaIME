@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.image.impl.ByteGrayAlpha;
+]]></content>
+	<tabTrigger>BYTEGRAYALPHA</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

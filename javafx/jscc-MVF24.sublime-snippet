@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.scene.control.cell.MapValueFactory;
+]]></content>
+	<tabTrigger>MAPVALUEFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

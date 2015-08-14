@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javadoc.ProgramElementDoc;
+]]></content>
+	<tabTrigger>PROGRAMELEMENTDOC</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

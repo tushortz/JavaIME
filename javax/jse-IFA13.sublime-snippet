@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.event.InternalFrameAdapter;
+]]></content>
+	<tabTrigger>INTERNALFRAMEADAPTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

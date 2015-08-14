@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.geometry.BoundingBoxBuilder;
+]]></content>
+	<tabTrigger>BOUNDINGBOXBUILDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.print.attribute.standard.NumberUpSupported;
+]]></content>
+	<tabTrigger>NUMBERUPSUPPORTED</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.webkit.dom.CSSStyleRuleImpl;
+]]></content>
+	<tabTrigger>CSSSTYLERULEIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

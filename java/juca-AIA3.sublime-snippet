@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.atomic.AtomicIntegerArray;
+]]></content>
+	<tabTrigger>ATOMICINTEGERARRAY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

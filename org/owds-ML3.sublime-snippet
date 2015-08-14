@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.stylesheets.MediaList;
+]]></content>
+	<tabTrigger>MEDIALIST</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

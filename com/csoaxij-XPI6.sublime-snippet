@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.jaxp.XPathImpl;
+]]></content>
+	<tabTrigger>XPATHIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

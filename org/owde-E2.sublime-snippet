@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.events.Event;
+]]></content>
+	<tabTrigger>EVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

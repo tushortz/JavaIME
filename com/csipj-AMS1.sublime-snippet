@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.imageio.plugins.jpeg.AdobeMarkerSegment;
+]]></content>
+	<tabTrigger>ADOBEMARKERSEGMENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

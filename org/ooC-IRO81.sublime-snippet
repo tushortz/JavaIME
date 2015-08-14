@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.IRObject;
+]]></content>
+	<tabTrigger>IROBJECT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

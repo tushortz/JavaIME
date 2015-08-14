@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.generic.BasicType;
+]]></content>
+	<tabTrigger>BASICTYPE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.es2.ES2VramPool;
+]]></content>
+	<tabTrigger>ES2VRAMPOOL</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

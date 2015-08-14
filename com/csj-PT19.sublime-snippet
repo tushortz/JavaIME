@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javadoc.ParameterizedType;
+]]></content>
+	<tabTrigger>PARAMETERIZEDTYPE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

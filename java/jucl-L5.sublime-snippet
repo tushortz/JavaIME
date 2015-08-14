@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.locks.Lock;
+]]></content>
+	<tabTrigger>LOCK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

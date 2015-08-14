@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableInterceptor.ObjectReferenceTemplate;
+]]></content>
+	<tabTrigger>OBJECTREFERENCETEMPLATE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

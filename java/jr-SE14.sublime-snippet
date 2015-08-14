@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.ServerError;
+]]></content>
+	<tabTrigger>SERVERERROR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

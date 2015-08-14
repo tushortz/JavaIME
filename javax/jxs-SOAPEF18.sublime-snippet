@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.soap.SOAPElementFactory;
+]]></content>
+	<tabTrigger>SOAPELEMENTFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.stream.Nodes;
+]]></content>
+	<tabTrigger>NODES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

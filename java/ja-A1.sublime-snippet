@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.applet.Applet;
+]]></content>
+	<tabTrigger>APPLET</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.INVALID_TRANSACTION;
+]]></content>
+	<tabTrigger>INVALID_TRANSACTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

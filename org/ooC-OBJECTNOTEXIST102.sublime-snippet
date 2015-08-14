@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.OBJECT_NOT_EXIST;
+]]></content>
+	<tabTrigger>OBJECT_NOT_EXIST</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

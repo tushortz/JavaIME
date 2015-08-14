@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.Callable;
+]]></content>
+	<tabTrigger>CALLABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.layout.region.RepeatStructConverter;
+]]></content>
+	<tabTrigger>REPEATSTRUCTCONVERTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

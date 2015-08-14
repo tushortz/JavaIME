@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.datatransfer.Clipboard;
+]]></content>
+	<tabTrigger>CLIPBOARD</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

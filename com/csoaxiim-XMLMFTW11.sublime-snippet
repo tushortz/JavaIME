@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter_zh_TW;
+]]></content>
+	<tabTrigger>XMLMESSAGEFORMATTER_ZH_TW</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

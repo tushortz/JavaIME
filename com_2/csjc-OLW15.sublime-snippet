@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.collections.ObservableListWrapper;
+]]></content>
+	<tabTrigger>OBSERVABLELISTWRAPPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

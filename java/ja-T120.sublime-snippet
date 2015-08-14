@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Transparency;
+]]></content>
+	<tabTrigger>TRANSPARENCY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.MARSHAL;
+]]></content>
+	<tabTrigger>MARSHAL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

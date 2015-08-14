@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.dgc.VMID;
+]]></content>
+	<tabTrigger>VMID</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

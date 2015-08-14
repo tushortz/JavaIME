@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.ArrayStoreException;
+]]></content>
+	<tabTrigger>ARRAYSTOREEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

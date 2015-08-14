@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.datatransfer.MimeTypeParameterList;
+]]></content>
+	<tabTrigger>MIMETYPEPARAMETERLIST</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

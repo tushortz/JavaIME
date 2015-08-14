@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.security.jgss.ExtendedGSSContext;
+]]></content>
+	<tabTrigger>EXTENDEDGSSCONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

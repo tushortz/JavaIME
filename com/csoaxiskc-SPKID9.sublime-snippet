@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.keys.content.SPKIData;
+]]></content>
+	<tabTrigger>SPKIDATA</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

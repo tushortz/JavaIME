@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.keys.keyresolver.implementations.RSAKeyValueResolver;
+]]></content>
+	<tabTrigger>RSAKEYVALUERESOLVER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

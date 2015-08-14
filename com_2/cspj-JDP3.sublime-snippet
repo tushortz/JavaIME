@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.j2d.J2DPresentable;
+]]></content>
+	<tabTrigger>J2DPRESENTABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

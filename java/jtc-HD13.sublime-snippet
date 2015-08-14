@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.chrono.HijrahDate;
+]]></content>
+	<tabTrigger>HIJRAHDATE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

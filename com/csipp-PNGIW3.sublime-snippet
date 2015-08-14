@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.imageio.plugins.png.PNGImageWriter;
+]]></content>
+	<tabTrigger>PNGIMAGEWRITER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

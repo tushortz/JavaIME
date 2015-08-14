@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.CTX_RESTRICT_SCOPE;
+]]></content>
+	<tabTrigger>CTX_RESTRICT_SCOPE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

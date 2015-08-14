@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.encryption.XMLCipherInput;
+]]></content>
+	<tabTrigger>XMLCIPHERINPUT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

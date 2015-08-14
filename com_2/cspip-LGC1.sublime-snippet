@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.impl.paint.LinearGradientContext;
+]]></content>
+	<tabTrigger>LINEARGRADIENTCONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.scene.control.TreeViewBuilder;
+]]></content>
+	<tabTrigger>TREEVIEWBUILDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

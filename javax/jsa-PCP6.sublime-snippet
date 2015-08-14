@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.security.auth.PrivateCredentialPermission;
+]]></content>
+	<tabTrigger>PRIVATECREDENTIALPERMISSION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

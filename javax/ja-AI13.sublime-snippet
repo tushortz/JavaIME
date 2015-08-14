@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.accessibility.AccessibleIcon;
+]]></content>
+	<tabTrigger>ACCESSIBLEICON</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

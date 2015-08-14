@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.scene.control.Hyperlink;
+]]></content>
+	<tabTrigger>HYPERLINK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

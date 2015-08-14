@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.ImageIcon;
+]]></content>
+	<tabTrigger>IMAGEICON</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

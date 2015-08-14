@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.res.XMLErrorResources_es;
+]]></content>
+	<tabTrigger>XMLERRORRESOURCES_ES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

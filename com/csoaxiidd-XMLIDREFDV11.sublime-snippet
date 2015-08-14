@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.impl.dv.dtd.XML11IDREFDatatypeValidator;
+]]></content>
+	<tabTrigger>XML11IDREFDATATYPEVALIDATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

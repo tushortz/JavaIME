@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.stream.AbstractSpinedBuffer;
+]]></content>
+	<tabTrigger>ABSTRACTSPINEDBUFFER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

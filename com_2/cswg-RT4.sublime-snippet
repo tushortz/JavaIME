@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.webkit.graphics.RenderTheme;
+]]></content>
+	<tabTrigger>RENDERTHEME</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.datatransfer.UnsupportedFlavorException;
+]]></content>
+	<tabTrigger>UNSUPPORTEDFLAVOREXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.utils.resolver.implementations.ResolverXPointer;
+]]></content>
+	<tabTrigger>RESOLVERXPOINTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.null3d.DummyRTTexture;
+]]></content>
+	<tabTrigger>DUMMYRTTEXTURE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

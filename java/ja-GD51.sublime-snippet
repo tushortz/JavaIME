@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Graphics2D;
+]]></content>
+	<tabTrigger>GRAPHICS2D</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

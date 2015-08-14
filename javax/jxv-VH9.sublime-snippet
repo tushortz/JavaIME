@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.validation.ValidatorHandler;
+]]></content>
+	<tabTrigger>VALIDATORHANDLER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

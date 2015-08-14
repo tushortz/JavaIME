@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.media.jfxmediaimpl.platform.gstreamer.GSTMediaPlayer;
+]]></content>
+	<tabTrigger>GSTMEDIAPLAYER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

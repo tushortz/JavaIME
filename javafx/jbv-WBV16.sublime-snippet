@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.beans.value.WritableBooleanValue;
+]]></content>
+	<tabTrigger>WRITABLEBOOLEANVALUE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

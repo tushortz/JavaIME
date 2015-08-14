@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.event.EventDispatchChain;
+]]></content>
+	<tabTrigger>EVENTDISPATCHCHAIN</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

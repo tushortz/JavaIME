@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.InterruptedIOException;
+]]></content>
+	<tabTrigger>INTERRUPTEDIOEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

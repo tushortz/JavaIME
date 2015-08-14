@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.URISyntaxException;
+]]></content>
+	<tabTrigger>URISYNTAXEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

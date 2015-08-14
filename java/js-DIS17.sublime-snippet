@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.DigestInputStream;
+]]></content>
+	<tabTrigger>DIGESTINPUTSTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

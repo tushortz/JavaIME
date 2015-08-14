@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.html.HTMLParamElement;
+]]></content>
+	<tabTrigger>HTMLPARAMELEMENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

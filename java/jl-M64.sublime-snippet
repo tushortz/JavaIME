@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.Math;
+]]></content>
+	<tabTrigger>MATH</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

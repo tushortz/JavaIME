@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.reflect.MalformedParametersException;
+]]></content>
+	<tabTrigger>MALFORMEDPARAMETERSEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

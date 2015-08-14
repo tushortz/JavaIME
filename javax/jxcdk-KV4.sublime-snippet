@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.crypto.dsig.keyinfo.KeyValue;
+]]></content>
+	<tabTrigger>KEYVALUE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

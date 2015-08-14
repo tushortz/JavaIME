@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.PKCS12Attribute;
+]]></content>
+	<tabTrigger>PKCS12ATTRIBUTE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

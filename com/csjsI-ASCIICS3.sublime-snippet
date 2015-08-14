@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.IPAcl.ASCII_CharStream;
+]]></content>
+	<tabTrigger>ASCII_CHARSTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

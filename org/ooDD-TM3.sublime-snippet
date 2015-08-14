@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.DynamicAny.DynAnyPackage.TypeMismatch;
+]]></content>
+	<tabTrigger>TYPEMISMATCH</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.Shutdown;
+]]></content>
+	<tabTrigger>SHUTDOWN</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

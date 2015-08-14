@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.utils.res.XResources_zh_TW;
+]]></content>
+	<tabTrigger>XRESOURCES_ZH_TW</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

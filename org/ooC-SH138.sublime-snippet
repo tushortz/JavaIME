@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.ShortHolder;
+]]></content>
+	<tabTrigger>SHORTHOLDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

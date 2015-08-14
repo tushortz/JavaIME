@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.filechooser.FileFilter;
+]]></content>
+	<tabTrigger>FILEFILTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

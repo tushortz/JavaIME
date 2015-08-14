@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.text.RBTableBuilder;
+]]></content>
+	<tabTrigger>RBTABLEBUILDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

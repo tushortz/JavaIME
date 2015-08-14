@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.EventHandlerProperties;
+]]></content>
+	<tabTrigger>EVENTHANDLERPROPERTIES</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

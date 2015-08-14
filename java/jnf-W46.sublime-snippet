@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.Watchable;
+]]></content>
+	<tabTrigger>WATCHABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

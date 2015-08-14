@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.JarURLConnection;
+]]></content>
+	<tabTrigger>JARURLCONNECTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

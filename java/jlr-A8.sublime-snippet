@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.reflect.Array;
+]]></content>
+	<tabTrigger>ARRAY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

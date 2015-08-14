@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.BootstrapMethodError;
+]]></content>
+	<tabTrigger>BOOTSTRAPMETHODERROR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

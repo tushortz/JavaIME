@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.traversal.NodeIterator;
+]]></content>
+	<tabTrigger>NODEITERATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

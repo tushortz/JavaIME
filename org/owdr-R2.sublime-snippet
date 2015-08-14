@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.ranges.Range;
+]]></content>
+	<tabTrigger>RANGE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.IPAcl.JDMIpV6Address;
+]]></content>
+	<tabTrigger>JDMIPV6ADDRESS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

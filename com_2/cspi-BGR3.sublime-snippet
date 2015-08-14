@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.impl.BaseGraphicsResource;
+]]></content>
+	<tabTrigger>BASEGRAPHICSRESOURCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

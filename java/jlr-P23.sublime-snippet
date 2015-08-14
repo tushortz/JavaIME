@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.reflect.Parameter;
+]]></content>
+	<tabTrigger>PARAMETER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

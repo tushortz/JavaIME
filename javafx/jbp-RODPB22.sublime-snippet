@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.beans.property.ReadOnlyDoublePropertyBase;
+]]></content>
+	<tabTrigger>READONLYDOUBLEPROPERTYBASE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

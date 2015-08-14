@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.Runtime;
+]]></content>
+	<tabTrigger>RUNTIME</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.INV_IDENT;
+]]></content>
+	<tabTrigger>INV_IDENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

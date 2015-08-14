@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xalan.internal.xsltc.compiler.UnparsedEntityUriCall;
+]]></content>
+	<tabTrigger>UNPARSEDENTITYURICALL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

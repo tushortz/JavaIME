@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.motif.resources.motif_sv;
+]]></content>
+	<tabTrigger>MOTIF_SV</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

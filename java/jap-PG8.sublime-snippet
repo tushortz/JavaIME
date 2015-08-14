@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.print.PrinterGraphics;
+]]></content>
+	<tabTrigger>PRINTERGRAPHICS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

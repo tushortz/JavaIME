@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.font.ShapeGraphicAttribute;
+]]></content>
+	<tabTrigger>SHAPEGRAPHICATTRIBUTE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

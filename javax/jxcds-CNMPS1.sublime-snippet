@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.crypto.dsig.spec.C14NMethodParameterSpec;
+]]></content>
+	<tabTrigger>C14NMETHODPARAMETERSPEC</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

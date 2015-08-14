@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.VM_CUSTOM;
+]]></content>
+	<tabTrigger>VM_CUSTOM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

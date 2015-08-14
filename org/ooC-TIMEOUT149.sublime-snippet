@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.TIMEOUT;
+]]></content>
+	<tabTrigger>TIMEOUT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.robot.impl.FXRobotHelper;
+]]></content>
+	<tabTrigger>FXROBOTHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.attribute.UserPrincipal;
+]]></content>
+	<tabTrigger>USERPRINCIPAL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

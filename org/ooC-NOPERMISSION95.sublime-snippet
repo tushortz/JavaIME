@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.NO_PERMISSION;
+]]></content>
+	<tabTrigger>NO_PERMISSION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

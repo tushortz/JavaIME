@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CosNaming.NameComponentHolder;
+]]></content>
+	<tabTrigger>NAMECOMPONENTHOLDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

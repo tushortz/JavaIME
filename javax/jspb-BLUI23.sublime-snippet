@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.plaf.basic.BasicLabelUI;
+]]></content>
+	<tabTrigger>BASICLABELUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.image.AffineTransformOp;
+]]></content>
+	<tabTrigger>AFFINETRANSFORMOP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

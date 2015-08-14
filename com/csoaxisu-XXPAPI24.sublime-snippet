@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.utils.XalanXPathAPI;
+]]></content>
+	<tabTrigger>XALANXPATHAPI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

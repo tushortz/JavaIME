@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.Remote;
+]]></content>
+	<tabTrigger>REMOTE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

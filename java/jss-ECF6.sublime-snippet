@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.spec.ECField;
+]]></content>
+	<tabTrigger>ECFIELD</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

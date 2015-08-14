@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.atomic.LongAdder;
+]]></content>
+	<tabTrigger>LONGADDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

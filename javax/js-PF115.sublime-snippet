@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.PopupFactory;
+]]></content>
+	<tabTrigger>POPUPFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

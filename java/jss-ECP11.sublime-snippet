@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.spec.ECPoint;
+]]></content>
+	<tabTrigger>ECPOINT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

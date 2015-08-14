@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.scenario.effect.ColorAdjust;
+]]></content>
+	<tabTrigger>COLORADJUST</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.NO_RESPONSE;
+]]></content>
+	<tabTrigger>NO_RESPONSE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

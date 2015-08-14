@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.RandomAccess;
+]]></content>
+	<tabTrigger>RANDOMACCESS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

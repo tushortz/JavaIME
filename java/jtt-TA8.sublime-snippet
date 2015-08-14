@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.temporal.TemporalAdjuster;
+]]></content>
+	<tabTrigger>TEMPORALADJUSTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

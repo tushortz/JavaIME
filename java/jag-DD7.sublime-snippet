@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.geom.Dimension2D;
+]]></content>
+	<tabTrigger>DIMENSION2D</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

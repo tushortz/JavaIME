@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableInterceptor.CurrentOperations;
+]]></content>
+	<tabTrigger>CURRENTOPERATIONS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

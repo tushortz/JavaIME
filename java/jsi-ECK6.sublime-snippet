@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.interfaces.ECKey;
+]]></content>
+	<tabTrigger>ECKEY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

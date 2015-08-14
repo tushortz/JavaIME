@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.LinearGradientPaintContext;
+]]></content>
+	<tabTrigger>LINEARGRADIENTPAINTCONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

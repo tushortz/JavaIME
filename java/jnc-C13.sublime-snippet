@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.channels.Channel;
+]]></content>
+	<tabTrigger>CHANNEL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

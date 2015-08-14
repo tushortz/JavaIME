@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.scenario.effect.AbstractShadow;
+]]></content>
+	<tabTrigger>ABSTRACTSHADOW</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

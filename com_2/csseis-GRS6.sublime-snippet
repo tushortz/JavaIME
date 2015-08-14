@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.scenario.effect.impl.state.GaussianRenderState;
+]]></content>
+	<tabTrigger>GAUSSIANRENDERSTATE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.TempFileHelper;
+]]></content>
+	<tabTrigger>TEMPFILEHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

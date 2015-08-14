@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.charset.UnsupportedCharsetException;
+]]></content>
+	<tabTrigger>UNSUPPORTEDCHARSETEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.invoke.BoundMethodHandle;
+]]></content>
+	<tabTrigger>BOUNDMETHODHANDLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

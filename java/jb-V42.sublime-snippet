@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.beans.Visibility;
+]]></content>
+	<tabTrigger>VISIBILITY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

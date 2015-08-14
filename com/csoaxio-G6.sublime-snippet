@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.operations.Gte;
+]]></content>
+	<tabTrigger>GTE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

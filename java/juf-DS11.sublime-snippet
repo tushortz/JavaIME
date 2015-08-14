@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.function.DoubleSupplier;
+]]></content>
+	<tabTrigger>DOUBLESUPPLIER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

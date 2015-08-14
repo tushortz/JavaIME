@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.cert.PKIXBuilderParameters;
+]]></content>
+	<tabTrigger>PKIXBUILDERPARAMETERS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

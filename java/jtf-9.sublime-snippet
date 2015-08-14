@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.format.package-info;
+]]></content>
+	<tabTrigger>PACKAGE-INFO</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

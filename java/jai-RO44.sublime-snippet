@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.image.RescaleOp;
+]]></content>
+	<tabTrigger>RESCALEOP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

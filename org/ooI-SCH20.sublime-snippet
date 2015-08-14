@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.ServiceContextHolder;
+]]></content>
+	<tabTrigger>SERVICECONTEXTHOLDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

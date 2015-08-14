@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.xs.datatypes.XSFloat;
+]]></content>
+	<tabTrigger>XSFLOAT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

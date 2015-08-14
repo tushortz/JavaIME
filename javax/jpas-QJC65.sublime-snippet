@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.print.attribute.standard.QueuedJobCount;
+]]></content>
+	<tabTrigger>QUEUEDJOBCOUNT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

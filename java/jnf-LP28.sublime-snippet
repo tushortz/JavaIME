@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.LinkPermission;
+]]></content>
+	<tabTrigger>LINKPERMISSION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.reflect.AnnotatedElement;
+]]></content>
+	<tabTrigger>ANNOTATEDELEMENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

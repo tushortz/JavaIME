@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.scenario.effect.DisplacementMap;
+]]></content>
+	<tabTrigger>DISPLACEMENTMAP</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

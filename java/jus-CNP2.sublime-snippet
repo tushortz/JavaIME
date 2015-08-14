@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.spi.CalendarNameProvider;
+]]></content>
+	<tabTrigger>CALENDARNAMEPROVIDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

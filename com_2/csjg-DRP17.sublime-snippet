@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.geom.DirtyRegionPool;
+]]></content>
+	<tabTrigger>DIRTYREGIONPOOL</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

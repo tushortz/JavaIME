@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.plaf.multi.MultiProgressBarUI;
+]]></content>
+	<tabTrigger>MULTIPROGRESSBARUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.BufferedWriter;
+]]></content>
+	<tabTrigger>BUFFEREDWRITER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

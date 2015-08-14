@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.control.skin.FXVKCharEntities;
+]]></content>
+	<tabTrigger>FXVKCHARENTITIES</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

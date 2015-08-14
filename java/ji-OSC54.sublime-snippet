@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.ObjectStreamClass;
+]]></content>
+	<tabTrigger>OBJECTSTREAMCLASS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

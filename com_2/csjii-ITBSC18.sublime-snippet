@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.image.impl.IntTo4ByteSameConverter;
+]]></content>
+	<tabTrigger>INTTO4BYTESAMECONVERTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

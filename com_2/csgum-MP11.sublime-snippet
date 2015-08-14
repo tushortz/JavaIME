@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.mac.MacPasteboard;
+]]></content>
+	<tabTrigger>MACPASTEBOARD</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

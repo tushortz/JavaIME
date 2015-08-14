@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.ref.Finalizer;
+]]></content>
+	<tabTrigger>FINALIZER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.bind.attachment.AttachmentUnmarshaller;
+]]></content>
+	<tabTrigger>ATTACHMENTUNMARSHALLER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

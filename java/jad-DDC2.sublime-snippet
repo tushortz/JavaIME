@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.dnd.DnDConstants;
+]]></content>
+	<tabTrigger>DNDCONSTANTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.prefs.PreferencesFactory;
+]]></content>
+	<tabTrigger>PREFERENCESFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

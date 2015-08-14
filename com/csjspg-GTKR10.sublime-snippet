@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.gtk.GTKRegion;
+]]></content>
+	<tabTrigger>GTKREGION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

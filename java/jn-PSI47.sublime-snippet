@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.PlainSocketImpl;
+]]></content>
+	<tabTrigger>PLAINSOCKETIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

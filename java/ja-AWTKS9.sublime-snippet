@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.AWTKeyStroke;
+]]></content>
+	<tabTrigger>AWTKEYSTROKE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

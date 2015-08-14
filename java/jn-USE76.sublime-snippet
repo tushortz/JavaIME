@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.UnknownServiceException;
+]]></content>
+	<tabTrigger>UNKNOWNSERVICEEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.LayoutManager2;
+]]></content>
+	<tabTrigger>LAYOUTMANAGER2</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

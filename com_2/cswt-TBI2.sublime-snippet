@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.webkit.text.TextBreakIterator;
+]]></content>
+	<tabTrigger>TEXTBREAKITERATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

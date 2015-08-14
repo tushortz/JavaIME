@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.domapi.XPathStylesheetDOM3Exception;
+]]></content>
+	<tabTrigger>XPATHSTYLESHEETDOM3EXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

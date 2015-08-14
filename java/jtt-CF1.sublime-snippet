@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.temporal.ChronoField;
+]]></content>
+	<tabTrigger>CHRONOFIELD</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

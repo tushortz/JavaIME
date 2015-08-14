@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.accessibility.AccessibleEditableText;
+]]></content>
+	<tabTrigger>ACCESSIBLEEDITABLETEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

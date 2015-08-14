@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.IdentifierHelper;
+]]></content>
+	<tabTrigger>IDENTIFIERHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

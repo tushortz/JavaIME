@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.css.CSSMediaRule;
+]]></content>
+	<tabTrigger>CSSMEDIARULE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

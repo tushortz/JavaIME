@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.SecureRandom;
+]]></content>
+	<tabTrigger>SECURERANDOM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

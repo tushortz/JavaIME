@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.MissingFormatArgumentException;
+]]></content>
+	<tabTrigger>MISSINGFORMATARGUMENTEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.geom.Area;
+]]></content>
+	<tabTrigger>AREA</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.tk.quantum.QuantumRenderer;
+]]></content>
+	<tabTrigger>QUANTUMRENDERER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.print.attribute.standard.MediaSize;
+]]></content>
+	<tabTrigger>MEDIASIZE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

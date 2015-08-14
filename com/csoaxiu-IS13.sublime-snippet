@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.utils.IntStack;
+]]></content>
+	<tabTrigger>INTSTACK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

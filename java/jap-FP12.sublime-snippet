@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.peer.FramePeer;
+]]></content>
+	<tabTrigger>FRAMEPEER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

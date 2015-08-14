@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.win.WinTextRangeProvider;
+]]></content>
+	<tabTrigger>WINTEXTRANGEPROVIDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

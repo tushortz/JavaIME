@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.print.attribute.standard.DateTimeAtCreation;
+]]></content>
+	<tabTrigger>DATETIMEATCREATION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

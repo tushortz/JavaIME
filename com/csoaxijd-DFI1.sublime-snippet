@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.jaxp.datatype.DatatypeFactoryImpl;
+]]></content>
+	<tabTrigger>DATATYPEFACTORYIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

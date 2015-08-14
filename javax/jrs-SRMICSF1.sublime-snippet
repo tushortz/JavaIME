@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.rmi.ssl.SslRMIClientSocketFactory;
+]]></content>
+	<tabTrigger>SSLRMICLIENTSOCKETFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

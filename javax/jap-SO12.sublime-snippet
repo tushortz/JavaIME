@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.annotation.processing.SupportedOptions;
+]]></content>
+	<tabTrigger>SUPPORTEDOPTIONS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

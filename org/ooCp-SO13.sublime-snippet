@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.portable.ServantObject;
+]]></content>
+	<tabTrigger>SERVANTOBJECT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

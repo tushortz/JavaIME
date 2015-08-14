@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.cert.X509Certificate;
+]]></content>
+	<tabTrigger>X509CERTIFICATE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.ByteBufferAsCharBufferRB;
+]]></content>
+	<tabTrigger>BYTEBUFFERASCHARBUFFERRB</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

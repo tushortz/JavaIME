@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.compiler.Keywords;
+]]></content>
+	<tabTrigger>KEYWORDS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

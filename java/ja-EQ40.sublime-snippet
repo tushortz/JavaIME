@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.EventQueue;
+]]></content>
+	<tabTrigger>EVENTQUEUE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

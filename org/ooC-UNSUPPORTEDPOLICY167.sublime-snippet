@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.UNSUPPORTED_POLICY;
+]]></content>
+	<tabTrigger>UNSUPPORTED_POLICY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

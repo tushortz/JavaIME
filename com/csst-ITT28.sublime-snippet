@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.source.tree.IntersectionTypeTree;
+]]></content>
+	<tabTrigger>INTERSECTIONTYPETREE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

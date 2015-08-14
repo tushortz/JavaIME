@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.print.attribute.standard.JobImpressionsCompleted;
+]]></content>
+	<tabTrigger>JOBIMPRESSIONSCOMPLETED</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

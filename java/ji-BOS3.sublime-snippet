@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.BufferedOutputStream;
+]]></content>
+	<tabTrigger>BUFFEREDOUTPUTSTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

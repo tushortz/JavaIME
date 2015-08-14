@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.tree.TreeModel;
+]]></content>
+	<tabTrigger>TREEMODEL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

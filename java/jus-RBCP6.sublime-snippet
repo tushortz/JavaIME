@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.spi.ResourceBundleControlProvider;
+]]></content>
+	<tabTrigger>RESOURCEBUNDLECONTROLPROVIDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

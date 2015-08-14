@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.Compiler;
+]]></content>
+	<tabTrigger>COMPILER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.monitoring.LongMonitoredAttributeBase;
+]]></content>
+	<tabTrigger>LONGMONITOREDATTRIBUTEBASE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

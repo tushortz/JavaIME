@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xalan.internal.xsltc.compiler.util.NodeSetType;
+]]></content>
+	<tabTrigger>NODESETTYPE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.scenario.animation.shared.FiniteClipEnvelope;
+]]></content>
+	<tabTrigger>FINITECLIPENVELOPE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

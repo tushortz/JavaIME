@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.prefs.NodeChangeEvent;
+]]></content>
+	<tabTrigger>NODECHANGEEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

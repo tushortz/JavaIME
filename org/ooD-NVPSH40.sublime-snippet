@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.DynamicAny.NameValuePairSeqHelper;
+]]></content>
+	<tabTrigger>NAMEVALUEPAIRSEQHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

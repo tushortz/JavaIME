@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.locks.StampedLock;
+]]></content>
+	<tabTrigger>STAMPEDLOCK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

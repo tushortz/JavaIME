@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.plaf.basic.BasicToolTipUI;
+]]></content>
+	<tabTrigger>BASICTOOLTIPUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

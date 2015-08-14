@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.KeyPairGenerator;
+]]></content>
+	<tabTrigger>KEYPAIRGENERATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

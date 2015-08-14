@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.AbstractQueue;
+]]></content>
+	<tabTrigger>ABSTRACTQUEUE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

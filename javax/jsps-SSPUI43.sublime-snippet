@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.plaf.synth.SynthScrollPaneUI;
+]]></content>
+	<tabTrigger>SYNTHSCROLLPANEUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

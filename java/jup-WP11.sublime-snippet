@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.prefs.WindowsPreferences;
+]]></content>
+	<tabTrigger>WINDOWSPREFERENCES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.format.FormatStyle;
+]]></content>
+	<tabTrigger>FORMATSTYLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

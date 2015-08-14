@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.INV_FLAG;
+]]></content>
+	<tabTrigger>INV_FLAG</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

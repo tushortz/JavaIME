@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Polygon;
+]]></content>
+	<tabTrigger>POLYGON</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

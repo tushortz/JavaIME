@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.GraphicsCallback;
+]]></content>
+	<tabTrigger>GRAPHICSCALLBACK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

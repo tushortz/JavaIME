@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.function.ObjIntConsumer;
+]]></content>
+	<tabTrigger>OBJINTCONSUMER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

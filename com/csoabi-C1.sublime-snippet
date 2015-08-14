@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.Constants;
+]]></content>
+	<tabTrigger>CONSTANTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

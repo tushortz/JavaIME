@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.stream.BaseStream;
+]]></content>
+	<tabTrigger>BASESTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

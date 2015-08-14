@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableServer.ServantRetentionPolicyOperations;
+]]></content>
+	<tabTrigger>SERVANTRETENTIONPOLICYOPERATIONS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

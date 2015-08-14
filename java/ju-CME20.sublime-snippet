@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.ConcurrentModificationException;
+]]></content>
+	<tabTrigger>CONCURRENTMODIFICATIONEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

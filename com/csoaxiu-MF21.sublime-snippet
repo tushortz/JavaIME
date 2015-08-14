@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.util.MessageFormatter;
+]]></content>
+	<tabTrigger>MESSAGEFORMATTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

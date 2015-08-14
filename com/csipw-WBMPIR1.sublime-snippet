@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.imageio.plugins.wbmp.WBMPImageReader;
+]]></content>
+	<tabTrigger>WBMPIMAGEREADER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

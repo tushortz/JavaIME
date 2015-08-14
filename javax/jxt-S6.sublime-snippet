@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.transform.Source;
+]]></content>
+	<tabTrigger>SOURCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.control.behavior.ScrollPaneBehavior;
+]]></content>
+	<tabTrigger>SCROLLPANEBEHAVIOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

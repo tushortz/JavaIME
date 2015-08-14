@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.event.AdjustmentListener;
+]]></content>
+	<tabTrigger>ADJUSTMENTLISTENER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

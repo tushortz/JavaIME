@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.Paths;
+]]></content>
+	<tabTrigger>PATHS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

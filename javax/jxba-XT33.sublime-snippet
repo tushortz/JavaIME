@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.bind.annotation.XmlTransient;
+]]></content>
+	<tabTrigger>XMLTRANSIENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

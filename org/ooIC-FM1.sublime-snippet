@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.CodecPackage.FormatMismatch;
+]]></content>
+	<tabTrigger>FORMATMISMATCH</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

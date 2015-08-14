@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.TAG_POLICIES;
+]]></content>
+	<tabTrigger>TAG_POLICIES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

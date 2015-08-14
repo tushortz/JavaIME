@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.font.directwrite.D2D1_POINT_2F;
+]]></content>
+	<tabTrigger>D2D1_POINT_2F</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

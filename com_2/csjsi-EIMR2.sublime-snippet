@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.input.ExtendedInputMethodRequests;
+]]></content>
+	<tabTrigger>EXTENDEDINPUTMETHODREQUESTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

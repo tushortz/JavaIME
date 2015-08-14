@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CosNaming.NameHelper;
+]]></content>
+	<tabTrigger>NAMEHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

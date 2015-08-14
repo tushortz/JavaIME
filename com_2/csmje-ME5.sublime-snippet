@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.media.jfxmedia.events.MarkerEvent;
+]]></content>
+	<tabTrigger>MARKEREVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

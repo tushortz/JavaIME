@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javadoc.ThrowsTag;
+]]></content>
+	<tabTrigger>THROWSTAG</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

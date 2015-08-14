@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.DynamicAny._DynUnionStub;
+]]></content>
+	<tabTrigger>_DYNUNIONSTUB</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.ws.wsaddressing.W3CEndpointReferenceBuilder;
+]]></content>
+	<tabTrigger>W3CENDPOINTREFERENCEBUILDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.TRANSACTION_UNAVAILABLE;
+]]></content>
+	<tabTrigger>TRANSACTION_UNAVAILABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

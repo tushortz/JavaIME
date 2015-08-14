@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.ArrayDeque;
+]]></content>
+	<tabTrigger>ARRAYDEQUE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

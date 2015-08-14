@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.DirectLongBufferS;
+]]></content>
+	<tabTrigger>DIRECTLONGBUFFERS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

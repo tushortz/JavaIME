@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.activation.ActivationDesc;
+]]></content>
+	<tabTrigger>ACTIVATIONDESC</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

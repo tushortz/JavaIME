@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.dtm.ref.IncrementalSAXSource_Filter;
+]]></content>
+	<tabTrigger>INCREMENTALSAXSOURCE_FILTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.imageio.plugins.common.BitFile;
+]]></content>
+	<tabTrigger>BITFILE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

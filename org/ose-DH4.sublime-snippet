@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org/xml.sax.ext.DefaultHandler2;
+]]></content>
+	<tabTrigger>DEFAULTHANDLER2</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org/Xml Package</description>
+</snippet>

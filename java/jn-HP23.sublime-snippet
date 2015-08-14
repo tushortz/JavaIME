@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.HostPortrange;
+]]></content>
+	<tabTrigger>HOSTPORTRANGE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.border.SoftBevelBorder;
+]]></content>
+	<tabTrigger>SOFTBEVELBORDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

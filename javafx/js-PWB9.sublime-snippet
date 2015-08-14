@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.stage.PopupWindowBuilder;
+]]></content>
+	<tabTrigger>POPUPWINDOWBUILDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

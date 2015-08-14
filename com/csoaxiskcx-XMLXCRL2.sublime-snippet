@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.keys.content.x509.XMLX509CRL;
+]]></content>
+	<tabTrigger>XMLX509CRL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.URIParameter;
+]]></content>
+	<tabTrigger>URIPARAMETER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

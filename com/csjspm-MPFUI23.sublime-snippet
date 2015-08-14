@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.motif.MotifPasswordFieldUI;
+]]></content>
+	<tabTrigger>MOTIFPASSWORDFIELDUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.modelmbean.InvalidTargetObjectTypeException;
+]]></content>
+	<tabTrigger>INVALIDTARGETOBJECTTYPEEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

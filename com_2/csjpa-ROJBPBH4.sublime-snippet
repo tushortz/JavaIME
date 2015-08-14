@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.property.adapter.ReadOnlyJavaBeanPropertyBuilderHelper;
+]]></content>
+	<tabTrigger>READONLYJAVABEANPROPERTYBUILDERHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

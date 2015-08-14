@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.JDialog;
+]]></content>
+	<tabTrigger>JDIALOG</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

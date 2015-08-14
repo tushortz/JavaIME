@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.algorithms.implementations.SignatureECDSA;
+]]></content>
+	<tabTrigger>SIGNATUREECDSA</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

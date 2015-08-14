@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.windows.WindowsMenuItemUI;
+]]></content>
+	<tabTrigger>WINDOWSMENUITEMUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

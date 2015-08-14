@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.text.GlyphPainter1;
+]]></content>
+	<tabTrigger>GLYPHPAINTER1</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

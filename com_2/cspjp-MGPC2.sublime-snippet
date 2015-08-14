@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.j2d.paint.MultipleGradientPaintContext;
+]]></content>
+	<tabTrigger>MULTIPLEGRADIENTPAINTCONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

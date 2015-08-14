@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.naming.InsufficientResourcesException;
+]]></content>
+	<tabTrigger>INSUFFICIENTRESOURCESEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

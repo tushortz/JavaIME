@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.lang.model.util.ElementScanner6;
+]]></content>
+	<tabTrigger>ELEMENTSCANNER6</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

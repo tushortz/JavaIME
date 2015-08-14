@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.reflect.Executable;
+]]></content>
+	<tabTrigger>EXECUTABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

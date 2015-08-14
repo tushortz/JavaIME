@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.text.BreakIterator;
+]]></content>
+	<tabTrigger>BREAKITERATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

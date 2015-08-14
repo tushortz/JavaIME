@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.DirectIntBufferRU;
+]]></content>
+	<tabTrigger>DIRECTINTBUFFERRU</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

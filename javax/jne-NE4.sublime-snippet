@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.naming.event.NamingEvent;
+]]></content>
+	<tabTrigger>NAMINGEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

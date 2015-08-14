@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.datatransfer.FlavorMap;
+]]></content>
+	<tabTrigger>FLAVORMAP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

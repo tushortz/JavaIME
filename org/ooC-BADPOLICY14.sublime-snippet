@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.BAD_POLICY;
+]]></content>
+	<tabTrigger>BAD_POLICY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

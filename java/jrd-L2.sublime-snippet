@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.dgc.Lease;
+]]></content>
+	<tabTrigger>LEASE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

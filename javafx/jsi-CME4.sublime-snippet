@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.scene.input.ContextMenuEvent;
+]]></content>
+	<tabTrigger>CONTEXTMENUEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

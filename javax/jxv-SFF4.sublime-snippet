@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.validation.SchemaFactoryFinder;
+]]></content>
+	<tabTrigger>SCHEMAFACTORYFINDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

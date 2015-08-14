@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.webkit.network.about.AboutURLConnection;
+]]></content>
+	<tabTrigger>ABOUTURLCONNECTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

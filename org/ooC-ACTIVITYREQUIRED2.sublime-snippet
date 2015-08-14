@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.ACTIVITY_REQUIRED;
+]]></content>
+	<tabTrigger>ACTIVITY_REQUIRED</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

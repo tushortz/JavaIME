@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.PrivilegedExceptionAction;
+]]></content>
+	<tabTrigger>PRIVILEGEDEXCEPTIONACTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

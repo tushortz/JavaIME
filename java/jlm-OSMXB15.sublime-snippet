@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.management.OperatingSystemMXBean;
+]]></content>
+	<tabTrigger>OPERATINGSYSTEMMXBEAN</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

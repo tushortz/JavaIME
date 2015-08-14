@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.TCKind;
+]]></content>
+	<tabTrigger>TCKIND</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

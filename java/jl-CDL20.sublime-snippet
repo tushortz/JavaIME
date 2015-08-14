@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.CharacterDataLatin1;
+]]></content>
+	<tabTrigger>CHARACTERDATALATIN1</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

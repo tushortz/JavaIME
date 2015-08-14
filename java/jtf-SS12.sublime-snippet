@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.format.SignStyle;
+]]></content>
+	<tabTrigger>SIGNSTYLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

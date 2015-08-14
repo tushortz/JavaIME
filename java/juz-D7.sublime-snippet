@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.zip.Deflater;
+]]></content>
+	<tabTrigger>DEFLATER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.binding.BidirectionalContentBinding;
+]]></content>
+	<tabTrigger>BIDIRECTIONALCONTENTBINDING</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

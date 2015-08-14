@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.source.doctree.VersionTree;
+]]></content>
+	<tabTrigger>VERSIONTREE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

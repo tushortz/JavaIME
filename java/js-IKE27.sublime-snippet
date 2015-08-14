@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.InvalidKeyException;
+]]></content>
+	<tabTrigger>INVALIDKEYEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

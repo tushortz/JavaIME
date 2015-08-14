@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.print.attribute.standard.PrintQuality;
+]]></content>
+	<tabTrigger>PRINTQUALITY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

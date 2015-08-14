@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.resolver.readers.TR9401CatalogReader;
+]]></content>
+	<tabTrigger>TR9401CATALOGREADER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

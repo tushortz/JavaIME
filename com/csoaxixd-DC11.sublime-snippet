@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xalan.internal.xsltc.dom.DocumentCache;
+]]></content>
+	<tabTrigger>DOCUMENTCACHE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

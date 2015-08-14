@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.Notification;
+]]></content>
+	<tabTrigger>NOTIFICATION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

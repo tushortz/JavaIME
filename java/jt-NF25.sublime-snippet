@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.text.NumberFormat;
+]]></content>
+	<tabTrigger>NUMBERFORMAT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

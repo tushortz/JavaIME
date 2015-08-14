@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.functions.FuncExtFunction;
+]]></content>
+	<tabTrigger>FUNCEXTFUNCTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

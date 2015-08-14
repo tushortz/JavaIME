@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.imageio.stream.ImageInputStream;
+]]></content>
+	<tabTrigger>IMAGEINPUTSTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

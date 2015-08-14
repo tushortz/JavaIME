@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.ModalEventFilter;
+]]></content>
+	<tabTrigger>MODALEVENTFILTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

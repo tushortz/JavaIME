@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.ProfileIdHelper;
+]]></content>
+	<tabTrigger>PROFILEIDHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

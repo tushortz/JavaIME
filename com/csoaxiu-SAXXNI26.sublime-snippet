@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.util.SAX2XNI;
+]]></content>
+	<tabTrigger>SAX2XNI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

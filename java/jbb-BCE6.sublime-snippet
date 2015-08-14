@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.beans.beancontext.BeanContextEvent;
+]]></content>
+	<tabTrigger>BEANCONTEXTEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.ClassLoaderHelper;
+]]></content>
+	<tabTrigger>CLASSLOADERHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.lens.LensDnDClipboard;
+]]></content>
+	<tabTrigger>LENSDNDCLIPBOARD</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

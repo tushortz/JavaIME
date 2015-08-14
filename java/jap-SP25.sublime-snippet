@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.peer.ScrollbarPeer;
+]]></content>
+	<tabTrigger>SCROLLBARPEER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

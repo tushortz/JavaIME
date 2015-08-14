@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.remote.internal.ClientListenerInfo;
+]]></content>
+	<tabTrigger>CLIENTLISTENERINFO</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

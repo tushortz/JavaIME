@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CosNaming.NamingContextPackage.NotEmptyHolder;
+]]></content>
+	<tabTrigger>NOTEMPTYHOLDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

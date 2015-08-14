@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.soap.Detail;
+]]></content>
+	<tabTrigger>DETAIL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

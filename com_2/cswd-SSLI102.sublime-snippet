@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.webkit.dom.StyleSheetListImpl;
+]]></content>
+	<tabTrigger>STYLESHEETLISTIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

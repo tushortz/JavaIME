@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.security.sasl.SaslServer;
+]]></content>
+	<tabTrigger>SASLSERVER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.source.tree.LiteralTree;
+]]></content>
+	<tabTrigger>LITERALTREE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

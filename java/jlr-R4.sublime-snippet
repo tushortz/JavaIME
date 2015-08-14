@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.ref.Reference;
+]]></content>
+	<tabTrigger>REFERENCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

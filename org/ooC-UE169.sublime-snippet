@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.UserException;
+]]></content>
+	<tabTrigger>USEREXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

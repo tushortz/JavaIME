@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.serializer.utils.SerializerMessages_zh_CN;
+]]></content>
+	<tabTrigger>SERIALIZERMESSAGES_ZH_CN</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.xpath.XPathExpression;
+]]></content>
+	<tabTrigger>XPATHEXPRESSION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

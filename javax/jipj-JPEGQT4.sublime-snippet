@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.imageio.plugins.jpeg.JPEGQTable;
+]]></content>
+	<tabTrigger>JPEGQTABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

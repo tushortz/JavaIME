@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.text.ParsePosition;
+]]></content>
+	<tabTrigger>PARSEPOSITION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

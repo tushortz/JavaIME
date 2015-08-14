@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.invoke.InvokerBytecodeGenerator;
+]]></content>
+	<tabTrigger>INVOKERBYTECODEGENERATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

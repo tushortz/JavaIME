@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.InheritableThreadLocal;
+]]></content>
+	<tabTrigger>INHERITABLETHREADLOCAL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

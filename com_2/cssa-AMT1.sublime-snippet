@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.scenario.animation.AbstractMasterTimer;
+]]></content>
+	<tabTrigger>ABSTRACTMASTERTIMER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.logging.CORBALogDomains;
+]]></content>
+	<tabTrigger>CORBALOGDOMAINS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

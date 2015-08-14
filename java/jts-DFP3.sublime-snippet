@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.text.spi.DateFormatProvider;
+]]></content>
+	<tabTrigger>DATEFORMATPROVIDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

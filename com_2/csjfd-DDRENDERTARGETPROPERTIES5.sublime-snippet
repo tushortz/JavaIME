@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.font.directwrite.D2D1_RENDER_TARGET_PROPERTIES;
+]]></content>
+	<tabTrigger>D2D1_RENDER_TARGET_PROPERTIES</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

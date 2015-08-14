@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.geometry.Dimension2D;
+]]></content>
+	<tabTrigger>DIMENSION2D</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

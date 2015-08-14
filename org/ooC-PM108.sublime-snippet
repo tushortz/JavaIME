@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.ParameterMode;
+]]></content>
+	<tabTrigger>PARAMETERMODE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

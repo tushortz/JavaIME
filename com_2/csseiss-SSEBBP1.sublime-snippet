@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.scenario.effect.impl.sw.sse.SSEBoxBlurPeer;
+]]></content>
+	<tabTrigger>SSEBOXBLURPEER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.source.util.TreePath;
+]]></content>
+	<tabTrigger>TREEPATH</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

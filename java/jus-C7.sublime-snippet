@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.stream.Collectors;
+]]></content>
+	<tabTrigger>COLLECTORS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

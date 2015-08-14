@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.font.directwrite.ID2D1Brush;
+]]></content>
+	<tabTrigger>ID2D1BRUSH</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

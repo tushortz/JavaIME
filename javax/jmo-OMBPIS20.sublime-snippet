@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.openmbean.OpenMBeanParameterInfoSupport;
+]]></content>
+	<tabTrigger>OPENMBEANPARAMETERINFOSUPPORT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

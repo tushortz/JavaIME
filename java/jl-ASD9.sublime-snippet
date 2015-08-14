@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.AssertionStatusDirectives;
+]]></content>
+	<tabTrigger>ASSERTIONSTATUSDIRECTIVES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

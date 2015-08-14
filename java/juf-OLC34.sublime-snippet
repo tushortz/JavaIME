@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.function.ObjLongConsumer;
+]]></content>
+	<tabTrigger>OBJLONGCONSUMER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

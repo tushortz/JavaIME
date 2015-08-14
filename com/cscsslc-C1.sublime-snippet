@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.legacy.connection.Connection;
+]]></content>
+	<tabTrigger>CONNECTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

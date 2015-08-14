@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.plaf.basic.BasicScrollBarUI;
+]]></content>
+	<tabTrigger>BASICSCROLLBARUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

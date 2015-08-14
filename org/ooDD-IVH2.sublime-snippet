@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.DynamicAny.DynAnyPackage.InvalidValueHelper;
+]]></content>
+	<tabTrigger>INVALIDVALUEHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

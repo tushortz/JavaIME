@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.print.attribute.standard.JobName;
+]]></content>
+	<tabTrigger>JOBNAME</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.ImmutableDescriptor;
+]]></content>
+	<tabTrigger>IMMUTABLEDESCRIPTOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

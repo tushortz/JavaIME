@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Shape;
+]]></content>
+	<tabTrigger>SHAPE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

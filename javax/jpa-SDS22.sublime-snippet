@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.print.attribute.Size2DSyntax;
+]]></content>
+	<tabTrigger>SIZE2DSYNTAX</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

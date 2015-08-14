@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableServer.RequestProcessingPolicyValue;
+]]></content>
+	<tabTrigger>REQUESTPROCESSINGPOLICYVALUE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

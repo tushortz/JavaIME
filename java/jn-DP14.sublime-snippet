@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.DatagramPacket;
+]]></content>
+	<tabTrigger>DATAGRAMPACKET</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

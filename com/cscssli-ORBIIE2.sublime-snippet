@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.legacy.interceptor.ORBInitInfoExt;
+]]></content>
+	<tabTrigger>ORBINITINFOEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

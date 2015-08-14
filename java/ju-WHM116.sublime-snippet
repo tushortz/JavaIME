@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.WeakHashMap;
+]]></content>
+	<tabTrigger>WEAKHASHMAP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

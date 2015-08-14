@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.namespace.NamespaceContext;
+]]></content>
+	<tabTrigger>NAMESPACECONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

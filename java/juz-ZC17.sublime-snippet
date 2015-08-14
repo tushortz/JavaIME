@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.zip.ZipConstants64;
+]]></content>
+	<tabTrigger>ZIPCONSTANTS64</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

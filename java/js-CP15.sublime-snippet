@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.CryptoPrimitive;
+]]></content>
+	<tabTrigger>CRYPTOPRIMITIVE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

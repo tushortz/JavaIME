@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.ws.soap.SOAPFaultException;
+]]></content>
+	<tabTrigger>SOAPFAULTEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

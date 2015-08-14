@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.reflect.InvocationHandler;
+]]></content>
+	<tabTrigger>INVOCATIONHANDLER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

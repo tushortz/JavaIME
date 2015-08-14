@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.TRANSACTION_MODE;
+]]></content>
+	<tabTrigger>TRANSACTION_MODE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

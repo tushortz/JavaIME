@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.embed.swt.CachingTransferable;
+]]></content>
+	<tabTrigger>CACHINGTRANSFERABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

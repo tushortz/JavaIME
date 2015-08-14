@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.serializer.ToTextStream;
+]]></content>
+	<tabTrigger>TOTEXTSTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

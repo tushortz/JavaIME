@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.Properties;
+]]></content>
+	<tabTrigger>PROPERTIES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

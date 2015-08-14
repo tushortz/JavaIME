@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.impl.xs.opti.DefaultText;
+]]></content>
+	<tabTrigger>DEFAULTTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.DirectShortBufferS;
+]]></content>
+	<tabTrigger>DIRECTSHORTBUFFERS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

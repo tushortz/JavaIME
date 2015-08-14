@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.sound.midi.spi.SoundbankReader;
+]]></content>
+	<tabTrigger>SOUNDBANKREADER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

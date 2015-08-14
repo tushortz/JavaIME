@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableServer.LifespanPolicy;
+]]></content>
+	<tabTrigger>LIFESPANPOLICY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.StreamTokenizer;
+]]></content>
+	<tabTrigger>STREAMTOKENIZER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

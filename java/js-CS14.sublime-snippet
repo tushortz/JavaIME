@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.CodeSource;
+]]></content>
+	<tabTrigger>CODESOURCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.scene.layout.BackgroundImage;
+]]></content>
+	<tabTrigger>BACKGROUNDIMAGE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

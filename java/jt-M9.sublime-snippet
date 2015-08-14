@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.Month;
+]]></content>
+	<tabTrigger>MONTH</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.control.skin.LabeledSkinBase;
+]]></content>
+	<tabTrigger>LABELEDSKINBASE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

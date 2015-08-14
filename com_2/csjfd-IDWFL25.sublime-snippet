@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.font.directwrite.IDWriteFontList;
+]]></content>
+	<tabTrigger>IDWRITEFONTLIST</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.StandardSocketOptions;
+]]></content>
+	<tabTrigger>STANDARDSOCKETOPTIONS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

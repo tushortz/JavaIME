@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.generic.I2C;
+]]></content>
+	<tabTrigger>I2C</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

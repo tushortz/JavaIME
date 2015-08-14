@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.instrument.ClassDefinition;
+]]></content>
+	<tabTrigger>CLASSDEFINITION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

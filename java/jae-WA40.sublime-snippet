@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.event.WindowAdapter;
+]]></content>
+	<tabTrigger>WINDOWADAPTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.TransferQueue;
+]]></content>
+	<tabTrigger>TRANSFERQUEUE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

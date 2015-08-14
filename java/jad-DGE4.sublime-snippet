@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.dnd.DragGestureEvent;
+]]></content>
+	<tabTrigger>DRAGGESTUREEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

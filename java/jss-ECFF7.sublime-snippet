@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.spec.ECFieldF2m;
+]]></content>
+	<tabTrigger>ECFIELDF2M</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.interfaces.RSAMultiPrimePrivateCrtKey;
+]]></content>
+	<tabTrigger>RSAMULTIPRIMEPRIVATECRTKEY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

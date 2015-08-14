@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.media.jfxmediaimpl.NativeMedia;
+]]></content>
+	<tabTrigger>NATIVEMEDIA</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

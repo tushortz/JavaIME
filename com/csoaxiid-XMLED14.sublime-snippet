@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.impl.dtd.XMLElementDecl;
+]]></content>
+	<tabTrigger>XMLELEMENTDECL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

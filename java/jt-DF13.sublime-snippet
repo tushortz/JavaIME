@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.text.DateFormat;
+]]></content>
+	<tabTrigger>DATEFORMAT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

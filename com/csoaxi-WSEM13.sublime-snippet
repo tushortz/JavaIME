@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.WhitespaceStrippingElementMatcher;
+]]></content>
+	<tabTrigger>WHITESPACESTRIPPINGELEMENTMATCHER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableServer.POAPackage.WrongPolicy;
+]]></content>
+	<tabTrigger>WRONGPOLICY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

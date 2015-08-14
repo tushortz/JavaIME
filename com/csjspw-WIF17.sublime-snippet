@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.windows.WindowsIconFactory;
+]]></content>
+	<tabTrigger>WINDOWSICONFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

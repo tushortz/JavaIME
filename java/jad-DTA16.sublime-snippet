@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.dnd.DropTargetAdapter;
+]]></content>
+	<tabTrigger>DROPTARGETADAPTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

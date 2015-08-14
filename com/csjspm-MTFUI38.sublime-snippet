@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.motif.MotifTextFieldUI;
+]]></content>
+	<tabTrigger>MOTIFTEXTFIELDUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

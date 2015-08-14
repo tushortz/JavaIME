@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.xni.XMLAttributes;
+]]></content>
+	<tabTrigger>XMLATTRIBUTES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

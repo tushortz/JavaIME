@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.property.JavaBeanAccessHelper;
+]]></content>
+	<tabTrigger>JAVABEANACCESSHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

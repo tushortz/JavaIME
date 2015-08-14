@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.ShortBuffer;
+]]></content>
+	<tabTrigger>SHORTBUFFER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

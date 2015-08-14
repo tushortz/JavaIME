@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.sql.DriverManager;
+]]></content>
+	<tabTrigger>DRIVERMANAGER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.media.jfxmedia.MediaException;
+]]></content>
+	<tabTrigger>MEDIAEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

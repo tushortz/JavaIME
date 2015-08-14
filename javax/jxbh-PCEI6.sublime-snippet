@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.bind.helpers.ParseConversionEventImpl;
+]]></content>
+	<tabTrigger>PARSECONVERSIONEVENTIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

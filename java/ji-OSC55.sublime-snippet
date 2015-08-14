@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.ObjectStreamConstants;
+]]></content>
+	<tabTrigger>OBJECTSTREAMCONSTANTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

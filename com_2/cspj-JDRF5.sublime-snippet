@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.j2d.J2DResourceFactory;
+]]></content>
+	<tabTrigger>J2DRESOURCEFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

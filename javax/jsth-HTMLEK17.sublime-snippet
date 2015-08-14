@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.text.html.HTMLEditorKit;
+]]></content>
+	<tabTrigger>HTMLEDITORKIT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

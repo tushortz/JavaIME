@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.NO_MEMORY;
+]]></content>
+	<tabTrigger>NO_MEMORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

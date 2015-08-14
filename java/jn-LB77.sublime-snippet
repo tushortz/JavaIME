@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.LongBuffer;
+]]></content>
+	<tabTrigger>LONGBUFFER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

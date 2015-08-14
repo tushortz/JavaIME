@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.logging.Logging;
+]]></content>
+	<tabTrigger>LOGGING</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

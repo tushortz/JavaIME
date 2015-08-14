@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.MouseInfo;
+]]></content>
+	<tabTrigger>MOUSEINFO</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

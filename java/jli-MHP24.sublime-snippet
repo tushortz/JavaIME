@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.invoke.MethodHandleProxies;
+]]></content>
+	<tabTrigger>METHODHANDLEPROXIES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

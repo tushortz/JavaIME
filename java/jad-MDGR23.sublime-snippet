@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.dnd.MouseDragGestureRecognizer;
+]]></content>
+	<tabTrigger>MOUSEDRAGGESTURERECOGNIZER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

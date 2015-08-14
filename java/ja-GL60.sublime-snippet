@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.GridLayout;
+]]></content>
+	<tabTrigger>GRIDLAYOUT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

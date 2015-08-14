@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.webkit.graphics.WCRenderQueue;
+]]></content>
+	<tabTrigger>WCRENDERQUEUE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

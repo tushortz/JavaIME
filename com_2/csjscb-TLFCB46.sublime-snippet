@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.control.behavior.TwoLevelFocusComboBehavior;
+]]></content>
+	<tabTrigger>TWOLEVELFOCUSCOMBOBEHAVIOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

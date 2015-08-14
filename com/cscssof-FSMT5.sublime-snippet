@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.orbutil.fsm.FSMTest;
+]]></content>
+	<tabTrigger>FSMTEST</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

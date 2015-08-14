@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.dtm.DTMIterator;
+]]></content>
+	<tabTrigger>DTMITERATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

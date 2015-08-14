@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.css.CSS2Properties;
+]]></content>
+	<tabTrigger>CSS2PROPERTIES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

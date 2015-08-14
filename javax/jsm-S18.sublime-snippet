@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.sound.midi.Sequencer;
+]]></content>
+	<tabTrigger>SEQUENCER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

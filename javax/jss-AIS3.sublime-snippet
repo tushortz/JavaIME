@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.sound.sampled.AudioInputStream;
+]]></content>
+	<tabTrigger>AUDIOINPUTSTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.prefs.BackingStoreException;
+]]></content>
+	<tabTrigger>BACKINGSTOREEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

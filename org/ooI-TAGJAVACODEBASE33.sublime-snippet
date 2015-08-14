@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.TAG_JAVA_CODEBASE;
+]]></content>
+	<tabTrigger>TAG_JAVA_CODEBASE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

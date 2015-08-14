@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.web.skin.HTMLEditorSkin;
+]]></content>
+	<tabTrigger>HTMLEDITORSKIN</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

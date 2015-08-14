@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.generic.I2L;
+]]></content>
+	<tabTrigger>I2L</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

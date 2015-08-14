@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.LinkageError;
+]]></content>
+	<tabTrigger>LINKAGEERROR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

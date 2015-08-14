@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.mac.MacMenuBarDelegate;
+]]></content>
+	<tabTrigger>MACMENUBARDELEGATE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

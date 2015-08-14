@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.monocle.DispmanPlatformFactory;
+]]></content>
+	<tabTrigger>DISPMANPLATFORMFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

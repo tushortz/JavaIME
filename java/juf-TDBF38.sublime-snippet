@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.function.ToDoubleBiFunction;
+]]></content>
+	<tabTrigger>TODOUBLEBIFUNCTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

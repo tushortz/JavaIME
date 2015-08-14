@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.annotation.Resource;
+]]></content>
+	<tabTrigger>RESOURCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

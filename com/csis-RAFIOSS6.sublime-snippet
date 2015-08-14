@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.imageio.spi.RAFImageOutputStreamSpi;
+]]></content>
+	<tabTrigger>RAFIMAGEOUTPUTSTREAMSPI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

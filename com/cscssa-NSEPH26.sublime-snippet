@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.activation.NoSuchEndPointHelper;
+]]></content>
+	<tabTrigger>NOSUCHENDPOINTHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

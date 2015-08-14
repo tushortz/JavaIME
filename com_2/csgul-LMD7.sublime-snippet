@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.lens.LensMenuDelegate;
+]]></content>
+	<tabTrigger>LENSMENUDELEGATE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

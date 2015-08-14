@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.imageio.ImageTypeSpecifier;
+]]></content>
+	<tabTrigger>IMAGETYPESPECIFIER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

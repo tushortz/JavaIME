@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.scene.effect.EffectChangeListener;
+]]></content>
+	<tabTrigger>EFFECTCHANGELISTENER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

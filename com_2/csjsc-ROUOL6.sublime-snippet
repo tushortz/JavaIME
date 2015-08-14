@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.control.ReadOnlyUnbackedObservableList;
+]]></content>
+	<tabTrigger>READONLYUNBACKEDOBSERVABLELIST</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

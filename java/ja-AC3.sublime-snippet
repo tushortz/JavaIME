@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.AlphaComposite;
+]]></content>
+	<tabTrigger>ALPHACOMPOSITE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

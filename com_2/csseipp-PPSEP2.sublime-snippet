@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.scenario.effect.impl.prism.ps.PPSEffectPeer;
+]]></content>
+	<tabTrigger>PPSEFFECTPEER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

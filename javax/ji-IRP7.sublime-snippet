@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.imageio.ImageReadParam;
+]]></content>
+	<tabTrigger>IMAGEREADPARAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

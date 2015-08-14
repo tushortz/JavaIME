@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.geometry.Rectangle2D;
+]]></content>
+	<tabTrigger>RECTANGLE2D</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

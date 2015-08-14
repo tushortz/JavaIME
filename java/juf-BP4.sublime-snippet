@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.function.BiPredicate;
+]]></content>
+	<tabTrigger>BIPREDICATE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

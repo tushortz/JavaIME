@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.iio.ImageFormatDescription;
+]]></content>
+	<tabTrigger>IMAGEFORMATDESCRIPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

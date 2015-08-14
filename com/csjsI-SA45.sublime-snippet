@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.IPAcl.SnmpAcl;
+]]></content>
+	<tabTrigger>SNMPACL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

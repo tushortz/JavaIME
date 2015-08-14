@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.windows.resources.windows_zh_HK;
+]]></content>
+	<tabTrigger>WINDOWS_ZH_HK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

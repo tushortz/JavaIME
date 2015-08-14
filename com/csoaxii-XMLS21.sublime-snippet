@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.impl.XMLScanner;
+]]></content>
+	<tabTrigger>XMLSCANNER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

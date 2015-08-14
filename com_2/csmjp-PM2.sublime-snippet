@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.media.jfxmediaimpl.platform.PlatformManager;
+]]></content>
+	<tabTrigger>PLATFORMMANAGER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

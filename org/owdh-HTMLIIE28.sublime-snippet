@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.html.HTMLIsIndexElement;
+]]></content>
+	<tabTrigger>HTMLISINDEXELEMENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

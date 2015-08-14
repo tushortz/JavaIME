@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.iio.ImageStorageException;
+]]></content>
+	<tabTrigger>IMAGESTORAGEEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

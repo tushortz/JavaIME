@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.color.ICC_Profile;
+]]></content>
+	<tabTrigger>ICC_PROFILE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.activation.LocatorPackage.ServerLocationPerORB;
+]]></content>
+	<tabTrigger>SERVERLOCATIONPERORB</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.registry.Registry;
+]]></content>
+	<tabTrigger>REGISTRY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

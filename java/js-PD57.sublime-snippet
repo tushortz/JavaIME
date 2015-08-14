@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.ProtectionDomain;
+]]></content>
+	<tabTrigger>PROTECTIONDOMAIN</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

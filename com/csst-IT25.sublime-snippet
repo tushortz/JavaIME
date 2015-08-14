@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.source.tree.IfTree;
+]]></content>
+	<tabTrigger>IFTREE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

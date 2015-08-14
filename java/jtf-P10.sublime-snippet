@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.format.Parsed;
+]]></content>
+	<tabTrigger>PARSED</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

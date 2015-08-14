@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.temporal.ChronoUnit;
+]]></content>
+	<tabTrigger>CHRONOUNIT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

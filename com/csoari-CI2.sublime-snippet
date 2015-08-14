@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.regexp.internal.CharacterIterator;
+]]></content>
+	<tabTrigger>CHARACTERITERATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.naming.NamingException;
+]]></content>
+	<tabTrigger>NAMINGEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

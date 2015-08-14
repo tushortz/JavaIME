@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.BAD_PARAM;
+]]></content>
+	<tabTrigger>BAD_PARAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

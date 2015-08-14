@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.GridBagConstraints;
+]]></content>
+	<tabTrigger>GRIDBAGCONSTRAINTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

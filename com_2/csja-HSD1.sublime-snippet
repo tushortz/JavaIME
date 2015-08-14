@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.application.HostServicesDelegate;
+]]></content>
+	<tabTrigger>HOSTSERVICESDELEGATE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

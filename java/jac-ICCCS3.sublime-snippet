@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.color.ICC_ColorSpace;
+]]></content>
+	<tabTrigger>ICC_COLORSPACE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

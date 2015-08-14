@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.serializer.ToUnknownStream;
+]]></content>
+	<tabTrigger>TOUNKNOWNSTREAM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

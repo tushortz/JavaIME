@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.Encoding;
+]]></content>
+	<tabTrigger>ENCODING</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

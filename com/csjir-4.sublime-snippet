@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java_cup.internal.runtime.virtual_parse_stack;
+]]></content>
+	<tabTrigger>VIRTUAL_PARSE_STACK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

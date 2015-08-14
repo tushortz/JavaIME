@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.annotation.IncompleteAnnotationException;
+]]></content>
+	<tabTrigger>INCOMPLETEANNOTATIONEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

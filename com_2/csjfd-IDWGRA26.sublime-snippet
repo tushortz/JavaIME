@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.font.directwrite.IDWriteGlyphRunAnalysis;
+]]></content>
+	<tabTrigger>IDWRITEGLYPHRUNANALYSIS</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

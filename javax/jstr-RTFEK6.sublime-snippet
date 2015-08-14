@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.text.rtf.RTFEditorKit;
+]]></content>
+	<tabTrigger>RTFEDITORKIT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

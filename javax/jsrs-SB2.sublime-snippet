@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.sql.rowset.serial.SerialBlob;
+]]></content>
+	<tabTrigger>SERIALBLOB</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

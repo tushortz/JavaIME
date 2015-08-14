@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.image.codec.jpeg.JPEGQTable;
+]]></content>
+	<tabTrigger>JPEGQTABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.GeneralSecurityException;
+]]></content>
+	<tabTrigger>GENERALSECURITYEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.xs.XSWildcard;
+]]></content>
+	<tabTrigger>XSWILDCARD</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

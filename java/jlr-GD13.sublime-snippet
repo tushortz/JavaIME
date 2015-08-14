@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.reflect.GenericDeclaration;
+]]></content>
+	<tabTrigger>GENERICDECLARATION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

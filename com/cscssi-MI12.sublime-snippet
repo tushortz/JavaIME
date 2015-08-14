@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.ior.MakeImmutable;
+]]></content>
+	<tabTrigger>MAKEIMMUTABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

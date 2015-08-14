@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.Base64;
+]]></content>
+	<tabTrigger>BASE64</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

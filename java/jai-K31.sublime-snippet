@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.image.Kernel;
+]]></content>
+	<tabTrigger>KERNEL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

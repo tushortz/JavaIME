@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.functions.FuncStringLength;
+]]></content>
+	<tabTrigger>FUNCSTRINGLENGTH</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

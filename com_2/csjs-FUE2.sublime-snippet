@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.stage.FocusUngrabEvent;
+]]></content>
+	<tabTrigger>FOCUSUNGRABEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

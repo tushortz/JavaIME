@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.DirectFloatBufferS;
+]]></content>
+	<tabTrigger>DIRECTFLOATBUFFERS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.generic.IF_ICMPGT;
+]]></content>
+	<tabTrigger>IF_ICMPGT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

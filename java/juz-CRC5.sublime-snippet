@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.zip.CRC32;
+]]></content>
+	<tabTrigger>CRC32</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

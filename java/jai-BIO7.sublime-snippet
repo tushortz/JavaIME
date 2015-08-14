@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.image.BufferedImageOp;
+]]></content>
+	<tabTrigger>BUFFEREDIMAGEOP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

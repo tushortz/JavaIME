@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.security.auth.module.SolarisLoginModule;
+]]></content>
+	<tabTrigger>SOLARISLOGINMODULE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

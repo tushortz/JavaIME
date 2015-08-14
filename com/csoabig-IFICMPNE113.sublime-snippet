@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.generic.IF_ICMPNE;
+]]></content>
+	<tabTrigger>IF_ICMPNE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

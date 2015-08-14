@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.channels.IllegalChannelGroupException;
+]]></content>
+	<tabTrigger>ILLEGALCHANNELGROUPEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

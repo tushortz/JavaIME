@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.Console;
+]]></content>
+	<tabTrigger>CONSOLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

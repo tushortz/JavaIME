@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.geom.AffineTransform;
+]]></content>
+	<tabTrigger>AFFINETRANSFORM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

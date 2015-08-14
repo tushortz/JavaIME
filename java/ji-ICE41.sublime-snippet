@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.InvalidClassException;
+]]></content>
+	<tabTrigger>INVALIDCLASSEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

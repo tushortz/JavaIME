@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.geom.Ellipse2D;
+]]></content>
+	<tabTrigger>ELLIPSE2D</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

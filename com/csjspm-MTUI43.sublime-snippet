@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.motif.MotifTreeUI;
+]]></content>
+	<tabTrigger>MOTIFTREEUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

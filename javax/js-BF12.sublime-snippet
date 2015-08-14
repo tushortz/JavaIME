@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.BorderFactory;
+]]></content>
+	<tabTrigger>BORDERFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

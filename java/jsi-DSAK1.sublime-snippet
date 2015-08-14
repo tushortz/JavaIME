@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.interfaces.DSAKey;
+]]></content>
+	<tabTrigger>DSAKEY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

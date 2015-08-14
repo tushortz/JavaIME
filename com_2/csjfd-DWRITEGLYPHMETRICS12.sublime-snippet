@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.font.directwrite.DWRITE_GLYPH_METRICS;
+]]></content>
+	<tabTrigger>DWRITE_GLYPH_METRICS</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

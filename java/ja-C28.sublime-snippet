@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Container;
+]]></content>
+	<tabTrigger>CONTAINER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

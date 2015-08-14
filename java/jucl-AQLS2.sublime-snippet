@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.locks.AbstractQueuedLongSynchronizer;
+]]></content>
+	<tabTrigger>ABSTRACTQUEUEDLONGSYNCHRONIZER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

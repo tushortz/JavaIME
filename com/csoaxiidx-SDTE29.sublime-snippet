@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.impl.dv.xs.SchemaDateTimeException;
+]]></content>
+	<tabTrigger>SCHEMADATETIMEEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

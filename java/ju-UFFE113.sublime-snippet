@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.UnknownFormatFlagsException;
+]]></content>
+	<tabTrigger>UNKNOWNFORMATFLAGSEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

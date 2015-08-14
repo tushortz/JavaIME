@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.dtm.ref.sax2dtm.SAX2DTM;
+]]></content>
+	<tabTrigger>SAX2DTM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

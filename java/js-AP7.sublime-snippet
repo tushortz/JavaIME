@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.AlgorithmParameters;
+]]></content>
+	<tabTrigger>ALGORITHMPARAMETERS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

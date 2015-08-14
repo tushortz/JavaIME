@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.webkit.InputMethodClientImpl;
+]]></content>
+	<tabTrigger>INPUTMETHODCLIENTIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

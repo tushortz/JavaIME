@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.HeapCharBufferR;
+]]></content>
+	<tabTrigger>HEAPCHARBUFFERR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

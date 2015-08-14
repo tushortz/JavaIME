@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.validation.Schema;
+]]></content>
+	<tabTrigger>SCHEMA</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

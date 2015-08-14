@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.EntityReference;
+]]></content>
+	<tabTrigger>ENTITYREFERENCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.beans.MethodRef;
+]]></content>
+	<tabTrigger>METHODREF</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

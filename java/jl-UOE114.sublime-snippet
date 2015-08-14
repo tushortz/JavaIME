@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.UnsupportedOperationException;
+]]></content>
+	<tabTrigger>UNSUPPORTEDOPERATIONEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

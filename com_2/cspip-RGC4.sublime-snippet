@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.impl.paint.RadialGradientContext;
+]]></content>
+	<tabTrigger>RADIALGRADIENTCONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

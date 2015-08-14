@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.FileReader;
+]]></content>
+	<tabTrigger>FILEREADER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

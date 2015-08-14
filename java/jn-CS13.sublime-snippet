@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.CookieStore;
+]]></content>
+	<tabTrigger>COOKIESTORE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

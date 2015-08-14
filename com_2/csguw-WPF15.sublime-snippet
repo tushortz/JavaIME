@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.win.WinPlatformFactory;
+]]></content>
+	<tabTrigger>WINPLATFORMFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

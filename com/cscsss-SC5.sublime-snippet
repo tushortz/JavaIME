@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.servicecontext.ServiceContext;
+]]></content>
+	<tabTrigger>SERVICECONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.SignatureSpi;
+]]></content>
+	<tabTrigger>SIGNATURESPI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

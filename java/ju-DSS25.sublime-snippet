@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.DoubleSummaryStatistics;
+]]></content>
+	<tabTrigger>DOUBLESUMMARYSTATISTICS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

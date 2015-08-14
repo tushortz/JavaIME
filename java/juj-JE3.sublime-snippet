@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.jar.JarException;
+]]></content>
+	<tabTrigger>JAREXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

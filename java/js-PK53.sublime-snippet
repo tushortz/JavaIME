@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.PrivateKey;
+]]></content>
+	<tabTrigger>PRIVATEKEY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

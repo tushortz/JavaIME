@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.ietf.jgss.MessageProp;
+]]></content>
+	<tabTrigger>MESSAGEPROP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

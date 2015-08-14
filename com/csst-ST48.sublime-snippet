@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.source.tree.SynchronizedTree;
+]]></content>
+	<tabTrigger>SYNCHRONIZEDTREE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

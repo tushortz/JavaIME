@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.IllegalFormatException;
+]]></content>
+	<tabTrigger>ILLEGALFORMATEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

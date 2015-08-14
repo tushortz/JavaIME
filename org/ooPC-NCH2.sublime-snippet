@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableServer.CurrentPackage.NoContextHelper;
+]]></content>
+	<tabTrigger>NOCONTEXTHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

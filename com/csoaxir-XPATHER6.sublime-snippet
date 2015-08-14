@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.res.XPATHErrorResources_it;
+]]></content>
+	<tabTrigger>XPATHERRORRESOURCES_IT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

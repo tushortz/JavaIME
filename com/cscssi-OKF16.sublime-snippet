@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.ior.ObjectKeyFactory;
+]]></content>
+	<tabTrigger>OBJECTKEYFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

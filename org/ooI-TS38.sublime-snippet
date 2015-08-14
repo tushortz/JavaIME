@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.TransactionService;
+]]></content>
+	<tabTrigger>TRANSACTIONSERVICE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

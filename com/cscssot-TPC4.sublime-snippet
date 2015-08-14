@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.orbutil.threadpool.ThreadPoolChooser;
+]]></content>
+	<tabTrigger>THREADPOOLCHOOSER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

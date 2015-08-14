@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.lang.model.util.AbstractTypeVisitor8;
+]]></content>
+	<tabTrigger>ABSTRACTTYPEVISITOR8</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

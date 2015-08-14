@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.Vector;
+]]></content>
+	<tabTrigger>VECTOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

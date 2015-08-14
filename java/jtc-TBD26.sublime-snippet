@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.chrono.ThaiBuddhistDate;
+]]></content>
+	<tabTrigger>THAIBUDDHISTDATE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

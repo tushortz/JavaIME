@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.URLStreamHandlerFactory;
+]]></content>
+	<tabTrigger>URLSTREAMHANDLERFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

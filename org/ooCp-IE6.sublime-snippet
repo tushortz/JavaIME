@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.portable.IndirectionException;
+]]></content>
+	<tabTrigger>INDIRECTIONEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

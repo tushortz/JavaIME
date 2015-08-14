@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.OMGVMCID;
+]]></content>
+	<tabTrigger>OMGVMCID</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.c14n.implementations.Canonicalizer20010315;
+]]></content>
+	<tabTrigger>CANONICALIZER20010315</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

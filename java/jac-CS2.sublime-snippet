@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.color.ColorSpace;
+]]></content>
+	<tabTrigger>COLORSPACE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

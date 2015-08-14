@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.ThreadGroup;
+]]></content>
+	<tabTrigger>THREADGROUP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.java.swing.plaf.motif.MotifButtonListener;
+]]></content>
+	<tabTrigger>MOTIFBUTTONLISTENER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

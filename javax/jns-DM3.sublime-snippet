@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.naming.spi.DirectoryManager;
+]]></content>
+	<tabTrigger>DIRECTORYMANAGER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

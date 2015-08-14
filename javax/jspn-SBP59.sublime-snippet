@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.plaf.nimbus.ScrollBarPainter;
+]]></content>
+	<tabTrigger>SCROLLBARPAINTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

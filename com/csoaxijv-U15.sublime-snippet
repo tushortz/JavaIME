@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.jaxp.validation.Util;
+]]></content>
+	<tabTrigger>UTIL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

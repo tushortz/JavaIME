@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.transforms.implementations.TransformBase64Decode;
+]]></content>
+	<tabTrigger>TRANSFORMBASE64DECODE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

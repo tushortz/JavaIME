@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.math.SignedMutableBigInteger;
+]]></content>
+	<tabTrigger>SIGNEDMUTABLEBIGINTEGER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

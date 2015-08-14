@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.remote.JMXAddressable;
+]]></content>
+	<tabTrigger>JMXADDRESSABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

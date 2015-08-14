@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.dnd.DragSourceAdapter;
+]]></content>
+	<tabTrigger>DRAGSOURCEADAPTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

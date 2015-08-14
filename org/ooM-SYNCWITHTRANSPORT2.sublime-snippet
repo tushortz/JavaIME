@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.Messaging.SYNC_WITH_TRANSPORT;
+]]></content>
+	<tabTrigger>SYNC_WITH_TRANSPORT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.keys.keyresolver.implementations.X509DigestResolver;
+]]></content>
+	<tabTrigger>X509DIGESTRESOLVER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

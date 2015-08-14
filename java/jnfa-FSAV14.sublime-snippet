@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.attribute.FileStoreAttributeView;
+]]></content>
+	<tabTrigger>FILESTOREATTRIBUTEVIEW</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

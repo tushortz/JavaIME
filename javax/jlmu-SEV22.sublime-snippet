@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.lang.model.util.SimpleElementVisitor6;
+]]></content>
+	<tabTrigger>SIMPLEELEMENTVISITOR6</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

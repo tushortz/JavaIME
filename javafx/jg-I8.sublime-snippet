@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.geometry.Insets;
+]]></content>
+	<tabTrigger>INSETS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

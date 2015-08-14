@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javadoc.ClassDoc;
+]]></content>
+	<tabTrigger>CLASSDOC</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

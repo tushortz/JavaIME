@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.spi.FileTypeDetector;
+]]></content>
+	<tabTrigger>FILETYPEDETECTOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

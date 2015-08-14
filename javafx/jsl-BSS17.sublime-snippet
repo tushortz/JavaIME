@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.scene.layout.BorderStrokeStyle;
+]]></content>
+	<tabTrigger>BORDERSTROKESTYLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

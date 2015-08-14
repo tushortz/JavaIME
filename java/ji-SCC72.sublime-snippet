@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.SerialCallbackContext;
+]]></content>
+	<tabTrigger>SERIALCALLBACKCONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

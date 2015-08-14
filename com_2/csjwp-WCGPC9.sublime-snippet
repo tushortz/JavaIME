@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.webkit.prism.WCGraphicsPrismContext;
+]]></content>
+	<tabTrigger>WCGRAPHICSPRISMCONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

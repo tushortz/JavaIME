@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableInterceptor.ClientRequestInterceptorOperations;
+]]></content>
+	<tabTrigger>CLIENTREQUESTINTERCEPTOROPERATIONS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

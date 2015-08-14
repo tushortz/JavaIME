@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.undo.UndoableEdit;
+]]></content>
+	<tabTrigger>UNDOABLEEDIT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

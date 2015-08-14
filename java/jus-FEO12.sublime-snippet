@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.stream.ForEachOps;
+]]></content>
+	<tabTrigger>FOREACHOPS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

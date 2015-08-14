@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.activation.InitialNameServiceOperations;
+]]></content>
+	<tabTrigger>INITIALNAMESERVICEOPERATIONS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

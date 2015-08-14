@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.bind.annotation.XmlElements;
+]]></content>
+	<tabTrigger>XMLELEMENTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

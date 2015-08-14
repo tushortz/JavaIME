@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.sql.Time;
+]]></content>
+	<tabTrigger>TIME</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

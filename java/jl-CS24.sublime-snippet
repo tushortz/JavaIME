@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.CharSequence;
+]]></content>
+	<tabTrigger>CHARSEQUENCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

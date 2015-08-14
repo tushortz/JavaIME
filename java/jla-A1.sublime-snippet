@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.annotation.Annotation;
+]]></content>
+	<tabTrigger>ANNOTATION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

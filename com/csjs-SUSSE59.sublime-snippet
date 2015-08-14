@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.SnmpUnknownSubSystemException;
+]]></content>
+	<tabTrigger>SNMPUNKNOWNSUBSYSTEMEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

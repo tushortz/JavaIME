@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.utils.res.XResources_ja_JP_HA;
+]]></content>
+	<tabTrigger>XRESOURCES_JA_JP_HA</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

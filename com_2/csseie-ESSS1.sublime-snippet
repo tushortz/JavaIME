@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.scenario.effect.impl.es2.ES2ShaderSource;
+]]></content>
+	<tabTrigger>ES2SHADERSOURCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

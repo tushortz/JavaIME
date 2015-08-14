@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.stream.DistinctOps;
+]]></content>
+	<tabTrigger>DISTINCTOPS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.beans.Customizer;
+]]></content>
+	<tabTrigger>CUSTOMIZER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

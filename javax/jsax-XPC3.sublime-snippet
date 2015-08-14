@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.security.auth.x500.X500PrivateCredential;
+]]></content>
+	<tabTrigger>X500PRIVATECREDENTIAL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

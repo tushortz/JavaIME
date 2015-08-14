@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.FileStore;
+]]></content>
+	<tabTrigger>FILESTORE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

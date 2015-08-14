@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.orb.StringPair;
+]]></content>
+	<tabTrigger>STRINGPAIR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

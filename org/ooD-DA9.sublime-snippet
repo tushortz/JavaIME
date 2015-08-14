@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.DynamicAny.DynArray;
+]]></content>
+	<tabTrigger>DYNARRAY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

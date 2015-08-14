@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.exceptions.Base64DecodingException;
+]]></content>
+	<tabTrigger>BASE64DECODINGEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

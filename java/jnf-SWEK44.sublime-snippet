@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.StandardWatchEventKinds;
+]]></content>
+	<tabTrigger>STANDARDWATCHEVENTKINDS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

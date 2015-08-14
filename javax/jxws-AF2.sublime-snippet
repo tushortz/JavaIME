@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.ws.soap.AddressingFeature;
+]]></content>
+	<tabTrigger>ADDRESSINGFEATURE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

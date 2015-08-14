@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import netscape.javascript.JSException;
+]]></content>
+	<tabTrigger>JSEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Netscape Package</description>
+</snippet>

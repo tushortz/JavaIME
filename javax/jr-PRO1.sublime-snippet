@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.rmi.PortableRemoteObject;
+]]></content>
+	<tabTrigger>PORTABLEREMOTEOBJECT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

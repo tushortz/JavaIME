@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.impl.xs.util.XInt;
+]]></content>
+	<tabTrigger>XINT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

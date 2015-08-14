@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.sql.rowset.FilteredRowSet;
+]]></content>
+	<tabTrigger>FILTEREDROWSET</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

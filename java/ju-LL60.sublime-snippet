@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.LinkedList;
+]]></content>
+	<tabTrigger>LINKEDLIST</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

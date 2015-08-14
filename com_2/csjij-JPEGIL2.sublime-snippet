@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.iio.jpeg.JPEGImageLoader;
+]]></content>
+	<tabTrigger>JPEGIMAGELOADER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.ContentHandlerFactory;
+]]></content>
+	<tabTrigger>CONTENTHANDLERFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

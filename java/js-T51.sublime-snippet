@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.sql.Types;
+]]></content>
+	<tabTrigger>TYPES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

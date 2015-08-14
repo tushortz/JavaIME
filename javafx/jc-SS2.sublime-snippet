@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.concurrent.ScheduledService;
+]]></content>
+	<tabTrigger>SCHEDULEDSERVICE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

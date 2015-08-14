@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.tools.ForwardingFileObject;
+]]></content>
+	<tabTrigger>FORWARDINGFILEOBJECT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

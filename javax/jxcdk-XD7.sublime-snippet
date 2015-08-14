@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.crypto.dsig.keyinfo.X509Data;
+]]></content>
+	<tabTrigger>X509DATA</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

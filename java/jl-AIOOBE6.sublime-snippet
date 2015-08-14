@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.ArrayIndexOutOfBoundsException;
+]]></content>
+	<tabTrigger>ARRAYINDEXOUTOFBOUNDSEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

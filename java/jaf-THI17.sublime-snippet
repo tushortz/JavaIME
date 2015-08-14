@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.font.TextHitInfo;
+]]></content>
+	<tabTrigger>TEXTHITINFO</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.Enumeration;
+]]></content>
+	<tabTrigger>ENUMERATION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

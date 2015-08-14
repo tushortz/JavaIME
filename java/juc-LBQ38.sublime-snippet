@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.LinkedBlockingQueue;
+]]></content>
+	<tabTrigger>LINKEDBLOCKINGQUEUE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

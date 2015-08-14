@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.generic.DUP2;
+]]></content>
+	<tabTrigger>DUP2</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

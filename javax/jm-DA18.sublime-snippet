@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.DescriptorAccess;
+]]></content>
+	<tabTrigger>DESCRIPTORACCESS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

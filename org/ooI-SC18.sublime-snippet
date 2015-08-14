@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.ServiceContext;
+]]></content>
+	<tabTrigger>SERVICECONTEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

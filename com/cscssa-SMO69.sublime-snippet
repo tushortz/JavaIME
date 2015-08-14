@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.activation.ServerManagerOperations;
+]]></content>
+	<tabTrigger>SERVERMANAGEROPERATIONS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

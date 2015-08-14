@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.FileDialog;
+]]></content>
+	<tabTrigger>FILEDIALOG</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

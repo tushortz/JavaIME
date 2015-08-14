@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.DynamicAny.DynValueBox;
+]]></content>
+	<tabTrigger>DYNVALUEBOX</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

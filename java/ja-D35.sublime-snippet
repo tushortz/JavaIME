@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Dimension;
+]]></content>
+	<tabTrigger>DIMENSION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

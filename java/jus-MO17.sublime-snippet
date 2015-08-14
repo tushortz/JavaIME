@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.stream.MatchOps;
+]]></content>
+	<tabTrigger>MATCHOPS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

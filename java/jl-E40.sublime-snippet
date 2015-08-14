@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.Enum;
+]]></content>
+	<tabTrigger>ENUM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

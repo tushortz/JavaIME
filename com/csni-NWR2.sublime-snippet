@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.naming.internal.NamedWeakReference;
+]]></content>
+	<tabTrigger>NAMEDWEAKREFERENCE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

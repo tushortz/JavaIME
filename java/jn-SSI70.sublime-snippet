@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.SocksSocketImpl;
+]]></content>
+	<tabTrigger>SOCKSSOCKETIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

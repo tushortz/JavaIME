@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.imageio.plugins.png.PNGMetadataFormat;
+]]></content>
+	<tabTrigger>PNGMETADATAFORMAT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

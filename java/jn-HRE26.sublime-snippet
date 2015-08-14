@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.HttpRetryException;
+]]></content>
+	<tabTrigger>HTTPRETRYEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

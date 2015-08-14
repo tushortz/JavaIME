@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.mbeanserver.PerInterface;
+]]></content>
+	<tabTrigger>PERINTERFACE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.keys.storage.implementations.SingleCertificateResolver;
+]]></content>
+	<tabTrigger>SINGLECERTIFICATERESOLVER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

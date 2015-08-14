@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.DayOfWeek;
+]]></content>
+	<tabTrigger>DAYOFWEEK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

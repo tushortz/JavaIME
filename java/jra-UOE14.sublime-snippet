@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.activation.UnknownObjectException;
+]]></content>
+	<tabTrigger>UNKNOWNOBJECTEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

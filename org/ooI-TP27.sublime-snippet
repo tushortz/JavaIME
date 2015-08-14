@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.TaggedProfile;
+]]></content>
+	<tabTrigger>TAGGEDPROFILE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

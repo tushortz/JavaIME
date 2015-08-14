@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.ForkJoinPool;
+]]></content>
+	<tabTrigger>FORKJOINPOOL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

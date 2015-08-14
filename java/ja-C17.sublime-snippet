@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Checkbox;
+]]></content>
+	<tabTrigger>CHECKBOX</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

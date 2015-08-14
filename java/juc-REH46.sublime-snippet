@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.RejectedExecutionHandler;
+]]></content>
+	<tabTrigger>REJECTEDEXECUTIONHANDLER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

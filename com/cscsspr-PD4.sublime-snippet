@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.presentation.rmi.PresentationDefaults;
+]]></content>
+	<tabTrigger>PRESENTATIONDEFAULTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

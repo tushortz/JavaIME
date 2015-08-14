@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.zip.Checksum;
+]]></content>
+	<tabTrigger>CHECKSUM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

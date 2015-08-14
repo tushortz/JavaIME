@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.INTF_REPOS;
+]]></content>
+	<tabTrigger>INTF_REPOS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

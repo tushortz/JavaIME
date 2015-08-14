@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.sql.RowSetReader;
+]]></content>
+	<tabTrigger>ROWSETREADER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

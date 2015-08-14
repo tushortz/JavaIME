@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.LocalDateTime;
+]]></content>
+	<tabTrigger>LOCALDATETIME</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

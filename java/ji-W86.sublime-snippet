@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.Writer;
+]]></content>
+	<tabTrigger>WRITER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

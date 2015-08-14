@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xalan.internal.xsltc.CollatorFactory;
+]]></content>
+	<tabTrigger>COLLATORFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

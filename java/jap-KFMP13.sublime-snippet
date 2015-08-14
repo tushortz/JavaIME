@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.peer.KeyboardFocusManagerPeer;
+]]></content>
+	<tabTrigger>KEYBOARDFOCUSMANAGERPEER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

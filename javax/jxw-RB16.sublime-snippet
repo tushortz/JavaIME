@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.ws.RespectBinding;
+]]></content>
+	<tabTrigger>RESPECTBINDING</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

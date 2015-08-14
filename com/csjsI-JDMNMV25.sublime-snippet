@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.IPAcl.JDMNetMaskV6;
+]]></content>
+	<tabTrigger>JDMNETMASKV6</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

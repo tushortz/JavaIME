@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.resolver.LocalResolver;
+]]></content>
+	<tabTrigger>LOCALRESOLVER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

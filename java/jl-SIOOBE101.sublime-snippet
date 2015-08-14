@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.StringIndexOutOfBoundsException;
+]]></content>
+	<tabTrigger>STRINGINDEXOUTOFBOUNDSEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

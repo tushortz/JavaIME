@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CosNaming.NamingContextPackage.CannotProceedHelper;
+]]></content>
+	<tabTrigger>CANNOTPROCEEDHELPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

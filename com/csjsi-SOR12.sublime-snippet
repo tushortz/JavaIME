@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.internal.SnmpOutgoingRequest;
+]]></content>
+	<tabTrigger>SNMPOUTGOINGREQUEST</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

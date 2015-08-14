@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.source.doctree.UnknownBlockTagTree;
+]]></content>
+	<tabTrigger>UNKNOWNBLOCKTAGTREE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.relation.InvalidRoleInfoException;
+]]></content>
+	<tabTrigger>INVALIDROLEINFOEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.attribute.AclFileAttributeView;
+]]></content>
+	<tabTrigger>ACLFILEATTRIBUTEVIEW</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

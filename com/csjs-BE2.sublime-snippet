@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.BerEncoder;
+]]></content>
+	<tabTrigger>BERENCODER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

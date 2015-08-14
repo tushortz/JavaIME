@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.IOP.TAG_RMI_CUSTOM_MAX_STREAM_FORMAT;
+]]></content>
+	<tabTrigger>TAG_RMI_CUSTOM_MAX_STREAM_FORMAT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

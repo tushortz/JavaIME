@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.agent.SnmpGenericMetaServer;
+]]></content>
+	<tabTrigger>SNMPGENERICMETASERVER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

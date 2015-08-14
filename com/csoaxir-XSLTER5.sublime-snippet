@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xalan.internal.res.XSLTErrorResources_es;
+]]></content>
+	<tabTrigger>XSLTERRORRESOURCES_ES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

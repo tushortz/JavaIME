@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.remote.SubjectDelegationPermission;
+]]></content>
+	<tabTrigger>SUBJECTDELEGATIONPERMISSION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

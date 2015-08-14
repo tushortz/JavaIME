@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.security.auth.callback.PasswordCallback;
+]]></content>
+	<tabTrigger>PASSWORDCALLBACK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

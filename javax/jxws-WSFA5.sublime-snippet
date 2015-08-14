@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.ws.spi.WebServiceFeatureAnnotation;
+]]></content>
+	<tabTrigger>WEBSERVICEFEATUREANNOTATION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.imageio.plugins.gif.GIFImageReaderSpi;
+]]></content>
+	<tabTrigger>GIFIMAGEREADERSPI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

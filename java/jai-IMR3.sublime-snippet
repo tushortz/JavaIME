@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.im.InputMethodRequests;
+]]></content>
+	<tabTrigger>INPUTMETHODREQUESTS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

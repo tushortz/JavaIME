@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.geom.QuadCurve2D;
+]]></content>
+	<tabTrigger>QUADCURVE2D</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

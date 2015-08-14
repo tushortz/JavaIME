@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CosNaming.Binding;
+]]></content>
+	<tabTrigger>BINDING</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

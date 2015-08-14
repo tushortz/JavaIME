@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.ZoneId;
+]]></content>
+	<tabTrigger>ZONEID</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

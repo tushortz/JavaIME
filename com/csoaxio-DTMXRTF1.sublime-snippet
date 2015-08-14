@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.objects.DTMXRTreeFrag;
+]]></content>
+	<tabTrigger>DTMXRTREEFRAG</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

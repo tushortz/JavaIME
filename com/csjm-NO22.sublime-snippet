@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.mbeanserver.NamedObject;
+]]></content>
+	<tabTrigger>NAMEDOBJECT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

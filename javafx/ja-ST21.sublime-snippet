@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.animation.ScaleTransition;
+]]></content>
+	<tabTrigger>SCALETRANSITION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

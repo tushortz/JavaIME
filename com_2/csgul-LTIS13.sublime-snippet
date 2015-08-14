@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.glass.ui.lens.LensTouchInputSupport;
+]]></content>
+	<tabTrigger>LENSTOUCHINPUTSUPPORT</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

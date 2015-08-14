@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.remote.util.ClassLoaderWithRepository;
+]]></content>
+	<tabTrigger>CLASSLOADERWITHREPOSITORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

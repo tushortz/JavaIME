@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.prefs.PreferenceChangeListener;
+]]></content>
+	<tabTrigger>PREFERENCECHANGELISTENER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

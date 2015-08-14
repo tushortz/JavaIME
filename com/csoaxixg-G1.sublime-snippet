@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.xni.grammars.Grammar;
+]]></content>
+	<tabTrigger>GRAMMAR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.StringCharBuffer;
+]]></content>
+	<tabTrigger>STRINGCHARBUFFER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

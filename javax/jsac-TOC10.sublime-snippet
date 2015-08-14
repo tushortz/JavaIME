@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.security.auth.callback.TextOutputCallback;
+]]></content>
+	<tabTrigger>TEXTOUTPUTCALLBACK</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

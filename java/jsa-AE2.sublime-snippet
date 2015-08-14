@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.acl.AclEntry;
+]]></content>
+	<tabTrigger>ACLENTRY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

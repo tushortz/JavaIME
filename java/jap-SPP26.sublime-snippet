@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.peer.ScrollPanePeer;
+]]></content>
+	<tabTrigger>SCROLLPANEPEER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.temporal.TemporalQueries;
+]]></content>
+	<tabTrigger>TEMPORALQUERIES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

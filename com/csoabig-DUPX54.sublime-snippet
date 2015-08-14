@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.generic.DUP_X1;
+]]></content>
+	<tabTrigger>DUP_X1</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

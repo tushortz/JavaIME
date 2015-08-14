@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.monitor.StringMonitor;
+]]></content>
+	<tabTrigger>STRINGMONITOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

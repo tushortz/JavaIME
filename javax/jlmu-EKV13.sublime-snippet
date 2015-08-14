@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.lang.model.util.ElementKindVisitor8;
+]]></content>
+	<tabTrigger>ELEMENTKINDVISITOR8</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

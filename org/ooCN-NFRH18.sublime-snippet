@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CosNaming.NamingContextPackage.NotFoundReasonHolder;
+]]></content>
+	<tabTrigger>NOTFOUNDREASONHOLDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

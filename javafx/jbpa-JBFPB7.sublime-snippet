@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.beans.property.adapter.JavaBeanFloatPropertyBuilder;
+]]></content>
+	<tabTrigger>JAVABEANFLOATPROPERTYBUILDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

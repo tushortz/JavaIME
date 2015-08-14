@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.generic.LDC2_W;
+]]></content>
+	<tabTrigger>LDC2_W</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.function.DoubleBinaryOperator;
+]]></content>
+	<tabTrigger>DOUBLEBINARYOPERATOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

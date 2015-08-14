@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xalan.internal.xsltc.trax.SAX2StAXEventWriter;
+]]></content>
+	<tabTrigger>SAX2STAXEVENTWRITER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

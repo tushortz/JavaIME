@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.zip.Inflater;
+]]></content>
+	<tabTrigger>INFLATER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

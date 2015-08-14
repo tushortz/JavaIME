@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.d3d.D3DSwapChain;
+]]></content>
+	<tabTrigger>D3DSWAPCHAIN</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

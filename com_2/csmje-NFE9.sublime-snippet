@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.media.jfxmedia.events.NewFrameEvent;
+]]></content>
+	<tabTrigger>NEWFRAMEEVENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

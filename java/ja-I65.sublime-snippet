@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Insets;
+]]></content>
+	<tabTrigger>INSETS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.zip.Adler32;
+]]></content>
+	<tabTrigger>ADLER32</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

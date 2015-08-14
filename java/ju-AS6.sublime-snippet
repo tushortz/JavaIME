@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.AbstractSet;
+]]></content>
+	<tabTrigger>ABSTRACTSET</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.control.skin.TextInputControlSkin;
+]]></content>
+	<tabTrigger>TEXTINPUTCONTROLSKIN</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.ObjectStreamException;
+]]></content>
+	<tabTrigger>OBJECTSTREAMEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

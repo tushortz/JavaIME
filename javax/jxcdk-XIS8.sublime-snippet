@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.crypto.dsig.keyinfo.X509IssuerSerial;
+]]></content>
+	<tabTrigger>X509ISSUERSERIAL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

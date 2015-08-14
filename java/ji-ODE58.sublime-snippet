@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.OptionalDataException;
+]]></content>
+	<tabTrigger>OPTIONALDATAEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

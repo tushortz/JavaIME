@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.management.MemoryUsage;
+]]></content>
+	<tabTrigger>MEMORYUSAGE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

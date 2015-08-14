@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.webkit.dom.HTMLTableCaptionElementImpl;
+]]></content>
+	<tabTrigger>HTMLTABLECAPTIONELEMENTIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

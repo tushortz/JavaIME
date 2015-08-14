@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.w3c.dom.html.HTMLDirectoryElement;
+]]></content>
+	<tabTrigger>HTMLDIRECTORYELEMENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

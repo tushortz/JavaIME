@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xerces.internal.util.EntityResolver2Wrapper;
+]]></content>
+	<tabTrigger>ENTITYRESOLVER2WRAPPER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

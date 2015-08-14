@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.EventDispatchThread;
+]]></content>
+	<tabTrigger>EVENTDISPATCHTHREAD</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.application.Platform;
+]]></content>
+	<tabTrigger>PLATFORM</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

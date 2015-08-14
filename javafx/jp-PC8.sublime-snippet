@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.print.PrintColor;
+]]></content>
+	<tabTrigger>PRINTCOLOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

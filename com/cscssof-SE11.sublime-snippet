@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.orbutil.fsm.StateEngine;
+]]></content>
+	<tabTrigger>STATEENGINE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

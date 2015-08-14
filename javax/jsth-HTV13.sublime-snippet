@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.text.html.HiddenTagView;
+]]></content>
+	<tabTrigger>HIDDENTAGVIEW</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

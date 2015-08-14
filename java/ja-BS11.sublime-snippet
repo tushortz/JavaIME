@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.BasicStroke;
+]]></content>
+	<tabTrigger>BASICSTROKE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

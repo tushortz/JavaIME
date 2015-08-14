@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.KeyEventPostProcessor;
+]]></content>
+	<tabTrigger>KEYEVENTPOSTPROCESSOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

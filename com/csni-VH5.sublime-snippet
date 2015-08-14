@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.naming.internal.VersionHelper12;
+]]></content>
+	<tabTrigger>VERSIONHELPER12</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

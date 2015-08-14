@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.remote.internal.ArrayNotificationBuffer;
+]]></content>
+	<tabTrigger>ARRAYNOTIFICATIONBUFFER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

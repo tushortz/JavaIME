@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.sql.SQLSyntaxErrorException;
+]]></content>
+	<tabTrigger>SQLSYNTAXERROREXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

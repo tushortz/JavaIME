@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.DefaultDatagramSocketImplFactory;
+]]></content>
+	<tabTrigger>DEFAULTDATAGRAMSOCKETIMPLFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

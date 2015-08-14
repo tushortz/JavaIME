@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableServer._ServantLocatorStub;
+]]></content>
+	<tabTrigger>_SERVANTLOCATORSTUB</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

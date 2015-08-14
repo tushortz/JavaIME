@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.channels.WritableByteChannel;
+]]></content>
+	<tabTrigger>WRITABLEBYTECHANNEL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

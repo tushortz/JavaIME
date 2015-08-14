@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.naming.internal.ResourceManager;
+]]></content>
+	<tabTrigger>RESOURCEMANAGER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.CharArrayWriter;
+]]></content>
+	<tabTrigger>CHARARRAYWRITER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

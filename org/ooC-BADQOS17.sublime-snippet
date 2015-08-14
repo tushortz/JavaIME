@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.BAD_QOS;
+]]></content>
+	<tabTrigger>BAD_QOS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.text.TabableView;
+]]></content>
+	<tabTrigger>TABABLEVIEW</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

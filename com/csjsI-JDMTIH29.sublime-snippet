@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.IPAcl.JDMTrapInterestedHost;
+]]></content>
+	<tabTrigger>JDMTRAPINTERESTEDHOST</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

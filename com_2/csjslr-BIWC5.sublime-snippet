@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.layout.region.BorderImageWidthConverter;
+]]></content>
+	<tabTrigger>BORDERIMAGEWIDTHCONVERTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

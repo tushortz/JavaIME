@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.security.auth.NTSid;
+]]></content>
+	<tabTrigger>NTSID</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

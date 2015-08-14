@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.SnmpNull;
+]]></content>
+	<tabTrigger>SNMPNULL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

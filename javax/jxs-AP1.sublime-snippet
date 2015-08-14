@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.soap.AttachmentPart;
+]]></content>
+	<tabTrigger>ATTACHMENTPART</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

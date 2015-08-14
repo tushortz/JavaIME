@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.util.converter.DateTimeStringConverter;
+]]></content>
+	<tabTrigger>DATETIMESTRINGCONVERTER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

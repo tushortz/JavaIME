@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.PortableInterceptor.ClientRequestInfo;
+]]></content>
+	<tabTrigger>CLIENTREQUESTINFO</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>

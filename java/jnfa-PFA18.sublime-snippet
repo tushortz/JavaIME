@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.attribute.PosixFileAttributes;
+]]></content>
+	<tabTrigger>POSIXFILEATTRIBUTES</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

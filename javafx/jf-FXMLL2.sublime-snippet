@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.fxml.FXMLLoader;
+]]></content>
+	<tabTrigger>FXMLLOADER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

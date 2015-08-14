@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.NoSuchProviderException;
+]]></content>
+	<tabTrigger>NOSUCHPROVIDEREXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

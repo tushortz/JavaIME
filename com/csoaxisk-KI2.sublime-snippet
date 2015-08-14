@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xml.internal.security.keys.KeyInfo;
+]]></content>
+	<tabTrigger>KEYINFO</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

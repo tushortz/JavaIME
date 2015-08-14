@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.PathMatcher;
+]]></content>
+	<tabTrigger>PATHMATCHER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

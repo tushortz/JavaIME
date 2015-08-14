@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.spec.ECPublicKeySpec;
+]]></content>
+	<tabTrigger>ECPUBLICKEYSPEC</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

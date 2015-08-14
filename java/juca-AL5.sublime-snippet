@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.concurrent.atomic.AtomicLong;
+]]></content>
+	<tabTrigger>ATOMICLONG</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

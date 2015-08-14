@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.BadAttributeValueExpException;
+]]></content>
+	<tabTrigger>BADATTRIBUTEVALUEEXPEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

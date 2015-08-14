@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.classfile.Code;
+]]></content>
+	<tabTrigger>CODE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

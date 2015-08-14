@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.imageio.ImageIO;
+]]></content>
+	<tabTrigger>IMAGEIO</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

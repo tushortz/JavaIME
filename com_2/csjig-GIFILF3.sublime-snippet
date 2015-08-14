@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.iio.gif.GIFImageLoaderFactory;
+]]></content>
+	<tabTrigger>GIFIMAGELOADERFACTORY</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

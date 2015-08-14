@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.scene.control.skin.SplitMenuButtonSkin;
+]]></content>
+	<tabTrigger>SPLITMENUBUTTONSKIN</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

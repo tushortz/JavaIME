@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.NotQueryExp;
+]]></content>
+	<tabTrigger>NOTQUERYEXP</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

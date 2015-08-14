@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.AbstractButton;
+]]></content>
+	<tabTrigger>ABSTRACTBUTTON</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

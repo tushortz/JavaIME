@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.sql.SQLWarning;
+]]></content>
+	<tabTrigger>SQLWARNING</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

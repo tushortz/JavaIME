@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.InternalFrameFocusTraversalPolicy;
+]]></content>
+	<tabTrigger>INTERNALFRAMEFOCUSTRAVERSALPOLICY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.charset.StandardCharsets;
+]]></content>
+	<tabTrigger>STANDARDCHARSETS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

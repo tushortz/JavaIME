@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.lang.model.element.TypeParameterElement;
+]]></content>
+	<tabTrigger>TYPEPARAMETERELEMENT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

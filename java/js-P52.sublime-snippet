@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.Principal;
+]]></content>
+	<tabTrigger>PRINCIPAL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

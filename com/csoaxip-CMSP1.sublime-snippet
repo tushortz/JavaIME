@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.patterns.ContextMatchStepPattern;
+]]></content>
+	<tabTrigger>CONTEXTMATCHSTEPPATTERN</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

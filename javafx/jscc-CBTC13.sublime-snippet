@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.scene.control.cell.ChoiceBoxTreeCell;
+]]></content>
+	<tabTrigger>CHOICEBOXTREECELL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

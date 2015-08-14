@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.CharArrayReader;
+]]></content>
+	<tabTrigger>CHARARRAYREADER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

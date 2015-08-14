@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.webkit.graphics.WCPageBackBuffer;
+]]></content>
+	<tabTrigger>WCPAGEBACKBUFFER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.DirectDoubleBufferS;
+]]></content>
+	<tabTrigger>DIRECTDOUBLEBUFFERS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

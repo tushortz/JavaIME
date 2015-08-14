@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.MediaTracker;
+]]></content>
+	<tabTrigger>MEDIATRACKER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

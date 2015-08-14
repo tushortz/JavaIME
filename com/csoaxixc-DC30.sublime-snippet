@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xalan.internal.xsltc.compiler.DocumentCall;
+]]></content>
+	<tabTrigger>DOCUMENTCALL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

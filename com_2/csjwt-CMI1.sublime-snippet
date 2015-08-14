@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.webkit.theme.ContextMenuImpl;
+]]></content>
+	<tabTrigger>CONTEXTMENUIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

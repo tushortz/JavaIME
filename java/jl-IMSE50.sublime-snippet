@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.IllegalMonitorStateException;
+]]></content>
+	<tabTrigger>ILLEGALMONITORSTATEEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

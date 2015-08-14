@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.jar.Pack200;
+]]></content>
+	<tabTrigger>PACK200</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

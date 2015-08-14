@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.IntSummaryStatistics;
+]]></content>
+	<tabTrigger>INTSUMMARYSTATISTICS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

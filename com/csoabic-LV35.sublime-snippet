@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.bcel.internal.classfile.LocalVariable;
+]]></content>
+	<tabTrigger>LOCALVARIABLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

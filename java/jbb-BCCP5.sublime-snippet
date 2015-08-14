@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.beans.beancontext.BeanContextContainerProxy;
+]]></content>
+	<tabTrigger>BEANCONTEXTCONTAINERPROXY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.NotSerializableException;
+]]></content>
+	<tabTrigger>NOTSERIALIZABLEEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

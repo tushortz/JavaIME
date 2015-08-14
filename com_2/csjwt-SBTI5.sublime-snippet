@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.javafx.webkit.theme.ScrollBarThemeImpl;
+]]></content>
+	<tabTrigger>SCROLLBARTHEMEIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

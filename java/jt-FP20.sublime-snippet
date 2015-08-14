@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.text.FieldPosition;
+]]></content>
+	<tabTrigger>FIELDPOSITION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

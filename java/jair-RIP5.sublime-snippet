@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.image.renderable.RenderableImageProducer;
+]]></content>
+	<tabTrigger>RENDERABLEIMAGEPRODUCER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.plaf.metal.MetalRadioButtonUI;
+]]></content>
+	<tabTrigger>METALRADIOBUTTONUI</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

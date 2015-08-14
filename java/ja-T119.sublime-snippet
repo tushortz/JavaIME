@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Toolkit;
+]]></content>
+	<tabTrigger>TOOLKIT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

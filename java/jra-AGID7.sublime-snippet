@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.rmi.activation.ActivationGroupID;
+]]></content>
+	<tabTrigger>ACTIVATIONGROUPID</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

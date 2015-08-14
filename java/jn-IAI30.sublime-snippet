@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.net.Inet4AddressImpl;
+]]></content>
+	<tabTrigger>INET4ADDRESSIMPL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

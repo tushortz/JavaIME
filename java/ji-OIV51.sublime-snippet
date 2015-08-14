@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.ObjectInputValidation;
+]]></content>
+	<tabTrigger>OBJECTINPUTVALIDATION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

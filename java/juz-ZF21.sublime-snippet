@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.zip.ZipFile;
+]]></content>
+	<tabTrigger>ZIPFILE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

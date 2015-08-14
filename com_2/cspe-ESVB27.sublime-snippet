@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.prism.es2.ES2VertexBuffer;
+]]></content>
+	<tabTrigger>ES2VERTEXBUFFER</tabTrigger>
+	<scope>source.java</scope>
+	<description>*Com Package*</description>
+</snippet>

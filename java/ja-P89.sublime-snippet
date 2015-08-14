@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.Paint;
+]]></content>
+	<tabTrigger>PAINT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

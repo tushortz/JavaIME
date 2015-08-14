@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.swing.LegacyGlueFocusTraversalPolicy;
+]]></content>
+	<tabTrigger>LEGACYGLUEFOCUSTRAVERSALPOLICY</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

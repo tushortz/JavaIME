@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.mbeanserver.MBeanSupport;
+]]></content>
+	<tabTrigger>MBEANSUPPORT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

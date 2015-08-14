@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.org.apache.xpath.internal.functions.Function3Args;
+]]></content>
+	<tabTrigger>FUNCTION3ARGS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

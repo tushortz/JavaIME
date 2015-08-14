@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.invoke.MethodHandleStatics;
+]]></content>
+	<tabTrigger>METHODHANDLESTATICS</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

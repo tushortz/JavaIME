@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.security.spec.PKCS8EncodedKeySpec;
+]]></content>
+	<tabTrigger>PKCS8ENCODEDKEYSPEC</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

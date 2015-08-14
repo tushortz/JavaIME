@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.file.attribute.FileOwnerAttributeView;
+]]></content>
+	<tabTrigger>FILEOWNERATTRIBUTEVIEW</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

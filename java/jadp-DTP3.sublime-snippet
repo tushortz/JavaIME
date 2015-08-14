@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.dnd.peer.DropTargetPeer;
+]]></content>
+	<tabTrigger>DROPTARGETPEER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

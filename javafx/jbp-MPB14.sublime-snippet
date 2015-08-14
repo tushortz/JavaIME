@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.beans.property.MapPropertyBase;
+]]></content>
+	<tabTrigger>MAPPROPERTYBASE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

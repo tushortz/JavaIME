@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.awt.AWTPermission;
+]]></content>
+	<tabTrigger>AWTPERMISSION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

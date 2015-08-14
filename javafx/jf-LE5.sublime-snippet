@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javafx.fxml.LoadException;
+]]></content>
+	<tabTrigger>LOADEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javafx Package</description>
+</snippet>

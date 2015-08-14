@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.util.PropertyPermission;
+]]></content>
+	<tabTrigger>PROPERTYPERMISSION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

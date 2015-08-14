@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.time.OffsetDateTime;
+]]></content>
+	<tabTrigger>OFFSETDATETIME</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

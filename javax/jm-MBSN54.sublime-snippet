@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.management.MBeanServerNotification;
+]]></content>
+	<tabTrigger>MBEANSERVERNOTIFICATION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

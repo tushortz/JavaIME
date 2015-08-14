@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.nio.ByteBufferAsLongBufferRL;
+]]></content>
+	<tabTrigger>BYTEBUFFERASLONGBUFFERRL</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

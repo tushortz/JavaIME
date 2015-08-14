@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.lang.OutOfMemoryError;
+]]></content>
+	<tabTrigger>OUTOFMEMORYERROR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.text.spi.NumberFormatProvider;
+]]></content>
+	<tabTrigger>NUMBERFORMATPROVIDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

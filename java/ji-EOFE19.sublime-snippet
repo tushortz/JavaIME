@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import java.io.EOFException;
+]]></content>
+	<tabTrigger>EOFEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import javax.xml.crypto.dsig.spec.XPathFilter2ParameterSpec;
+]]></content>
+	<tabTrigger>XPATHFILTER2PARAMETERSPEC</tabTrigger>
+	<scope>source.java</scope>
+	<description>Javax Package</description>
+</snippet>

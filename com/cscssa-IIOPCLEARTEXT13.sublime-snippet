@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.corba.se.spi.activation.IIOP_CLEAR_TEXT;
+]]></content>
+	<tabTrigger>IIOP_CLEAR_TEXT</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

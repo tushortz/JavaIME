@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import com.sun.jmx.snmp.SnmpOidRecord;
+]]></content>
+	<tabTrigger>SNMPOIDRECORD</tabTrigger>
+	<scope>source.java</scope>
+	<description>Com Package</description>
+</snippet>

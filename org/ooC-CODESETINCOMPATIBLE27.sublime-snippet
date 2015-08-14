@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.omg.CORBA.CODESET_INCOMPATIBLE;
+]]></content>
+	<tabTrigger>CODESET_INCOMPATIBLE</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>
