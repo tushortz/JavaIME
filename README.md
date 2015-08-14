@@ -6,7 +6,7 @@
 **JavaIME** is a Sublime text package that makes importing any java package easy.
 
 ## Installation
-s
+
 Open `Tools -> Command Palette...`. Search for `Package Control: Install Package` and click enter. Wait for
 the available packages to show up and then search for `JavaIME`. Click enter and the package should
 be installed.
