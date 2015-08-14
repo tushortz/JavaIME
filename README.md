@@ -6,10 +6,15 @@
 **JavaIME** is a Sublime text package that makes importing any java package easy.
 
 ## Installation
+> Important: You need to have `Package Control` installed first on your sublime text which can be found at [The Package Contol Website](http://packagecontrol.io)
 
-Open `Tools -> Command Palette...`. Search for `Package Control: Install Package` and click enter. Wait for
-the available packages to show up and then search for `JavaIME`. Click enter and the package should
-be installed.
+### Using Package Control's Repository
+
+Go to `Preferences` --> `Package Control` --> `Add Repository` --> then type into the textbox `https://github.com/tushortz/JavaIME`
+
+After doing this, then go to: `Preferences` --> `Package Control` --> `Install Package` --> then search `JavaIME` and click it.
+
+The package will be installed and ready for use.
 
 ### Using Git
 
@@ -18,6 +23,8 @@ Locate your Sublime Text 2 `Packages` directory by using the menu item `Preferen
 While inside the `Packages` directory, clone the theme repository using the command below:
 
     git clone https://github.com/tushortz/JavaIME.git
+
+
 
 ### Download Manually
 
