@@ -59,10 +59,6 @@ To import the *java.utils.Collections package*, type **COLLECTIONS** in *(upperc
 ### Screenshot
 ![Java Import Made Easy {JavaIME}](./preview.png)
 
-## Donations
-If you think my efforts were worthwhile and would like to make a donation.
-
-> Donations are welcome on [Gofundme](https://www.gofundme.com/tushortz/donate). 
 
 
 ## Contributing
