@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import org.json.simple.parser.ParseException;
+]]></content>
+	<tabTrigger>PARSEEXCEPTION</tabTrigger>
+	<scope>source.java</scope>
+	<description>Org Package</description>
+</snippet>
