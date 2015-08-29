@@ -1,0 +1,10 @@
+
+
+<snippet>
+	<content><![CDATA[
+import java.nio.channels.spi.Selector;
+]]></content>
+	<tabTrigger>SELECTOR</tabTrigger>
+	<scope>source.java</scope>
+	<description>Java Package</description>
+</snippet>
