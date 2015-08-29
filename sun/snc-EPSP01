@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+import sun.nio.ch.EventPortSelectorProvider;
+]]></content>
+	<tabTrigger>EVENTPORTSELECTORPROVIDER</tabTrigger>
+	<scope>source.java</scope>
+	<description>Sun Package</description>
+</snippet>
