@@ -1,0 +1,47 @@
+
+ _______    ____      __    __     ____       ________    ____      ____    _________
+(___   |   /  _  \   |  |  |  |   /  _  \    |__    __|  |    \   /     |  /   ______)
+    |  |  /  /_\  \  |  |  |  |  /  /_\  \      |  |     |  |\  \/  /|  |  |  |___
+ _  |  | |   ___   | |  |  |  | |   ___   |     |  |     |  | \    / |  |  |  ____)
+/ \_/  | |  |   |  |  \  \/  /  |  |   |  |   __|  |__   |  |  \__/  |  |  |  |______
+|_____/  |__|   |__|   \____/   |__|   |__|  |________|  |__|        |__|  \_________)
+
+
+Welcome to Java Import Made Easy (JavaIME)
+===========================================
+
+This Sublime text package makes it easy to import virtually all Java packages and gives method completion suggestions for java methods.
+
+
+How to Use
+==========
+
+On a Java file in sublime text, click on the line where you want to import the Java Package then type the package name name all in uppercase and suggestions should follow.
+
+
+Example
+=======
+
+To import the "java.utils.Collections package", type COLLECTIONS in (uppercase). Suggestions should already be popping up then press TAB to select. The package will be automatically imported like
+
+	import java.utils.Collections;
+
+
+
+
+Contact
+=======
+
+Feel free to contact me on taiwo.kareem36@gmail.com for enquiries and donation to help the creator.
+
+Acknowledgements
+================
+
+To God be all the glory
+
+License
+=======
+
+MIT 
+
+
