@@ -2,18 +2,6 @@
 	"scope": "source.java",
 	"completions":
 	[
-		// {"trigger": "A\tmethods", "contents": "A"},
-		// {"trigger": "A0\tmethods", "contents": "A0"},
-		// {"trigger": "A1\tmethods", "contents": "A1"},
-		// {"trigger": "A10\tmethods", "contents": "A10"},
-		// {"trigger": "A2\tmethods", "contents": "A2"},
-		// {"trigger": "A3\tmethods", "contents": "A3"},
-		// {"trigger": "A4\tmethods", "contents": "A4"},
-		// {"trigger": "A5\tmethods", "contents": "A5"},
-		// {"trigger": "A6\tmethods", "contents": "A6"},
-		// {"trigger": "A7\tmethods", "contents": "A7"},
-		// {"trigger": "A8\tmethods", "contents": "A8"},
-		// {"trigger": "A9\tmethods", "contents": "A9"},
 		
 		{"trigger": "ABORT\tmethods", "contents": "ABORT"},
 		{"trigger": "ABORTED\tmethods", "contents": "ABORTED"},
@@ -171,18 +159,6 @@
 		{"trigger": "Alignment\tmethods", "contents": "Alignment"},
 		{"trigger": "ArrangeGrid()\tmethods", "contents": "ArrangeGrid($1)"},
 
-		// {"trigger": "B\tmethods", "contents": "B"},
-		// {"trigger": "B0\tmethods", "contents": "B0"},
-		// {"trigger": "B1\tmethods", "contents": "B1"},
-		// {"trigger": "B10\tmethods", "contents": "B10"},
-		// {"trigger": "B2\tmethods", "contents": "B2"},
-		// {"trigger": "B3\tmethods", "contents": "B3"},
-		// {"trigger": "B4\tmethods", "contents": "B4"},
-		// {"trigger": "B5\tmethods", "contents": "B5"},
-		// {"trigger": "B6\tmethods", "contents": "B6"},
-		// {"trigger": "B7\tmethods", "contents": "B7"},
-		// {"trigger": "B8\tmethods", "contents": "B8"},
-		// {"trigger": "B9\tmethods", "contents": "B9"},
 
 		{"trigger": "BACKGROUND\tmethods", "contents": "BACKGROUND"},
 		{"trigger": "BACKGROUND_ATTACHMENT\tmethods", "contents": "BACKGROUND_ATTACHMENT"},
@@ -301,18 +277,6 @@
 		{"trigger": "BidiLevel\tmethods", "contents": "BidiLevel"},
 		{"trigger": "Bold\tmethods", "contents": "Bold"},
 
-		// {"trigger": "C\tmethods", "contents": "C"},
-		// {"trigger": "C0\tmethods", "contents": "C0"},
-		// {"trigger": "C1\tmethods", "contents": "C1"},
-		// {"trigger": "C10\tmethods", "contents": "C10"},
-		// {"trigger": "C2\tmethods", "contents": "C2"},
-		// {"trigger": "C3\tmethods", "contents": "C3"},
-		// {"trigger": "C4\tmethods", "contents": "C4"},
-		// {"trigger": "C5\tmethods", "contents": "C5"},
-		// {"trigger": "C6\tmethods", "contents": "C6"},
-		// {"trigger": "C7\tmethods", "contents": "C7"},
-		// {"trigger": "C8\tmethods", "contents": "C8"},
-		// {"trigger": "C9\tmethods", "contents": "C9"}
 		,
 		{"trigger": "CANADA\tmethods", "contents": "CANADA"},
 		{"trigger": "CANADA_FRENCH\tmethods", "contents": "CANADA_FRENCH"},
@@ -528,7 +492,6 @@
 		{"trigger": "ContentElementName\tmethods", "contents": "ContentElementName"},
 		{"trigger": "ContentType\tmethods", "contents": "ContentType"},
 
-		// {"trigger": "D\tmethods", "contents": "D"},
 
 		{"trigger": "DARK\tmethods", "contents": "DARK"},
 		{"trigger": "DARK_GRAY\tmethods", "contents": "DARK_GRAY"},
@@ -720,7 +683,6 @@
 		{"trigger": "DstOut\tmethods", "contents": "DstOut"},
 		{"trigger": "DstOver\tmethods", "contents": "DstOver"},
 
-		// {"trigger": "E\tmethods", "contents": "E"},
 
 		{"trigger": "EAST\tmethods", "contents": "EAST"},
 		{"trigger": "EASTERN_ARABIC\tmethods", "contents": "EASTERN_ARABIC"},
@@ -832,19 +794,6 @@
 		{"trigger": "EndTagType\tmethods", "contents": "EndTagType"},
 		{"trigger": "ExcellentBreakWeight\tmethods", "contents": "ExcellentBreakWeight"},
 
-		// {"trigger": "F0\tmethods", "contents": "F0"},
-		// {"trigger": "F1\tmethods", "contents": "F1"},
-		// {"trigger": "F10\tmethods", "contents": "F10"},
-		// {"trigger": "F11\tmethods", "contents": "F11"},
-		// {"trigger": "F12\tmethods", "contents": "F12"},
-		// {"trigger": "F2\tmethods", "contents": "F2"},
-		// {"trigger": "F3\tmethods", "contents": "F3"},
-		// {"trigger": "F4\tmethods", "contents": "F4"},
-		// {"trigger": "F5\tmethods", "contents": "F5"},
-		// {"trigger": "F6\tmethods", "contents": "F6"},
-		// {"trigger": "F7\tmethods", "contents": "F7"},
-		// {"trigger": "F8\tmethods", "contents": "F8"},
-		// {"trigger": "F9\tmethods", "contents": "F9"},
 
 		{"trigger": "FACE\tmethods", "contents": "FACE"},
 		{"trigger": "FAILED\tmethods", "contents": "FAILED"},
@@ -998,12 +947,6 @@
 		{"trigger": "GetMinSize()\tmethods", "contents": "GetMinSize($1)"},
 		{"trigger": "GoodBreakWeight\tmethods", "contents": "GoodBreakWeight"},
 
-		// {"trigger": "H1\tmethods", "contents": "H1"},
-		// {"trigger": "H2\tmethods", "contents": "H2"},
-		// {"trigger": "H3\tmethods", "contents": "H3"},
-		// {"trigger": "H4\tmethods", "contents": "H4"},
-		// {"trigger": "H5\tmethods", "contents": "H5"},
-		// {"trigger": "H6\tmethods", "contents": "H6"},
 
 		{"trigger": "HALFWIDTH_AND_FULLWIDTH_FORMS\tmethods", "contents": "HALFWIDTH_AND_FULLWIDTH_FORMS"},
 		{"trigger": "HALFWIDTH_KATAKANA\tmethods", "contents": "HALFWIDTH_KATAKANA"},
@@ -1113,7 +1056,6 @@
 		{"trigger": "HUFFMAN_ONLY\tmethods", "contents": "HUFFMAN_ONLY"},
 		{"trigger": "HYPERLINK\tmethods", "contents": "HYPERLINK"},
 
-		// {"trigger": "I\tmethods", "contents": "I"},
 
 		{"trigger": "ICON\tmethods", "contents": "ICON"},
 		{"trigger": "ICONIFIED\tmethods", "contents": "ICONIFIED"},
@@ -1729,7 +1671,6 @@
 		{"trigger": "MinimumWidth\tmethods", "contents": "MinimumWidth"},
 		{"trigger": "ModelAttribute\tmethods", "contents": "ModelAttribute"},
 
-		// {"trigger": "N\tmethods", "contents": "N"},
 
 		{"trigger": "NAME\tmethods", "contents": "NAME"},
 		{"trigger": "NAMES\tmethods", "contents": "NAMES"},
@@ -1945,7 +1886,6 @@
 		{"trigger": "Orientation\tmethods", "contents": "Orientation"},
 		{"trigger": "OriginateDirection\tmethods", "contents": "OriginateDirection"},
 
-		// {"trigger": "P\tmethods", "contents": "P"},
 
 		{"trigger": "PACKAGE\tmethods", "contents": "PACKAGE"},
 		{"trigger": "PADDING\tmethods", "contents": "PADDING"},
@@ -14481,17 +14421,11 @@
 		{"trigger": "written\tmethods", "contents": "written"},
 		{"trigger": "wsdlDocumentLocation()\tmethods", "contents": "wsdlDocumentLocation($1)"},
 
-		// {"trigger": "x\tmethods", "contents": "x"},
-		// {"trigger": "x1\tmethods", "contents": "x1"},
-		// {"trigger": "x2\tmethods", "contents": "x2"},
 
 		{"trigger": "xPositionForValue()\tmethods", "contents": "xPositionForValue($1)"},
 		{"trigger": "xor()\tmethods", "contents": "xor($1)"},
 		{"trigger": "xpoints\tmethods", "contents": "xpoints"},
 
-		// {"trigger": "y\tmethods", "contents": "y"},
-		// {"trigger": "y1\tmethods", "contents": "y1"},
-		// {"trigger": "y2\tmethods", "contents": "y2"},
 
 		{"trigger": "yPositionForValue()\tmethods", "contents": "yPositionForValue($1)"},
 		{"trigger": "yellow\tmethods", "contents": "yellow"},
