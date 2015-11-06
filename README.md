@@ -1,5 +1,3 @@
-
-
 # Java Import Made Easy (JavaIME)
 
 ## About
@@ -12,6 +10,13 @@ On a Java file in sublime text, click on the line where you want to import the J
 
 ### Example
 To import the *java.utils.Collections package*, type **COLLECTIONS** in *(uppercase)*. Suggestions should already be popping up then press *TAB* to select. The package will be automatically imported.
+
+To show a listener interface completion, type **I=** followed by the listener interface name. e.g.
+	
+	I-Focus
+
+should show **FocusListener** completion option.
+
 
 ### Screenshot
 #### Import Completions
