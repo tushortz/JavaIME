@@ -2,7 +2,6 @@
 	"scope": "source.java",
 	"completions":
 	[
-		
 		{"trigger": "ABORT\tmethods", "contents": "ABORT"},
 		{"trigger": "ABORTED\tmethods", "contents": "ABORTED"},
 		{"trigger": "ABORTED_BY_SYSTEM\tmethods", "contents": "ABORTED_BY_SYSTEM"},
@@ -158,8 +157,6 @@
 		{"trigger": "AdjustForGravity()\tmethods", "contents": "AdjustForGravity($1)"},
 		{"trigger": "Alignment\tmethods", "contents": "Alignment"},
 		{"trigger": "ArrangeGrid()\tmethods", "contents": "ArrangeGrid($1)"},
-
-
 		{"trigger": "BACKGROUND\tmethods", "contents": "BACKGROUND"},
 		{"trigger": "BACKGROUND_ATTACHMENT\tmethods", "contents": "BACKGROUND_ATTACHMENT"},
 		{"trigger": "BACKGROUND_COLOR\tmethods", "contents": "BACKGROUND_COLOR"},
@@ -276,8 +273,6 @@
 		{"trigger": "BidiElementName\tmethods", "contents": "BidiElementName"},
 		{"trigger": "BidiLevel\tmethods", "contents": "BidiLevel"},
 		{"trigger": "Bold\tmethods", "contents": "Bold"},
-
-		,
 		{"trigger": "CANADA\tmethods", "contents": "CANADA"},
 		{"trigger": "CANADA_FRENCH\tmethods", "contents": "CANADA_FRENCH"},
 		{"trigger": "CANCEL\tmethods", "contents": "CANCEL"},
@@ -491,8 +486,6 @@
 		{"trigger": "ComposedTextAttribute\tmethods", "contents": "ComposedTextAttribute"},
 		{"trigger": "ContentElementName\tmethods", "contents": "ContentElementName"},
 		{"trigger": "ContentType\tmethods", "contents": "ContentType"},
-
-
 		{"trigger": "DARK\tmethods", "contents": "DARK"},
 		{"trigger": "DARK_GRAY\tmethods", "contents": "DARK_GRAY"},
 		{"trigger": "DASH_PUNCTUATION\tmethods", "contents": "DASH_PUNCTUATION"},
@@ -682,8 +675,6 @@
 		{"trigger": "DstIn\tmethods", "contents": "DstIn"},
 		{"trigger": "DstOut\tmethods", "contents": "DstOut"},
 		{"trigger": "DstOver\tmethods", "contents": "DstOver"},
-
-
 		{"trigger": "EAST\tmethods", "contents": "EAST"},
 		{"trigger": "EASTERN_ARABIC\tmethods", "contents": "EASTERN_ARABIC"},
 		{"trigger": "EDGE_NO_OP\tmethods", "contents": "EDGE_NO_OP"},
@@ -793,8 +784,6 @@
 		{"trigger": "ElementNameAttribute\tmethods", "contents": "ElementNameAttribute"},
 		{"trigger": "EndTagType\tmethods", "contents": "EndTagType"},
 		{"trigger": "ExcellentBreakWeight\tmethods", "contents": "ExcellentBreakWeight"},
-
-
 		{"trigger": "FACE\tmethods", "contents": "FACE"},
 		{"trigger": "FAILED\tmethods", "contents": "FAILED"},
 		{"trigger": "FAILURE\tmethods", "contents": "FAILURE"},
@@ -900,7 +889,6 @@
 		{"trigger": "ForcedBreakWeight\tmethods", "contents": "ForcedBreakWeight"},
 		{"trigger": "Foreground\tmethods", "contents": "Foreground"},
 		{"trigger": "Forward\tmethods", "contents": "Forward"},
-
 		{"trigger": "GAP_TOKEN\tmethods", "contents": "GAP_TOKEN"},
 		{"trigger": "GARBAGE_COLLECTOR_MXBEAN_DOMAIN_TYPE\tmethods", "contents": "GARBAGE_COLLECTOR_MXBEAN_DOMAIN_TYPE"},
 		{"trigger": "GDAY\tmethods", "contents": "GDAY"},
@@ -946,8 +934,6 @@
 		{"trigger": "GetLayoutInfo()\tmethods", "contents": "GetLayoutInfo($1)"},
 		{"trigger": "GetMinSize()\tmethods", "contents": "GetMinSize($1)"},
 		{"trigger": "GoodBreakWeight\tmethods", "contents": "GoodBreakWeight"},
-
-
 		{"trigger": "HALFWIDTH_AND_FULLWIDTH_FORMS\tmethods", "contents": "HALFWIDTH_AND_FULLWIDTH_FORMS"},
 		{"trigger": "HALFWIDTH_KATAKANA\tmethods", "contents": "HALFWIDTH_KATAKANA"},
 		{"trigger": "HALIGN\tmethods", "contents": "HALIGN"},
@@ -1055,8 +1041,6 @@
 		{"trigger": "HTTP_VERSION\tmethods", "contents": "HTTP_VERSION"},
 		{"trigger": "HUFFMAN_ONLY\tmethods", "contents": "HUFFMAN_ONLY"},
 		{"trigger": "HYPERLINK\tmethods", "contents": "HYPERLINK"},
-
-
 		{"trigger": "ICON\tmethods", "contents": "ICON"},
 		{"trigger": "ICONIFIED\tmethods", "contents": "ICONIFIED"},
 		{"trigger": "ICONIFY_CMD\tmethods", "contents": "ICONIFY_CMD"},
@@ -1249,7 +1233,6 @@
 		{"trigger": "IconAttribute\tmethods", "contents": "IconAttribute"},
 		{"trigger": "IconElementName\tmethods", "contents": "IconElementName"},
 		{"trigger": "Italic\tmethods", "contents": "Italic"},
-
 		{"trigger": "JANUARY\tmethods", "contents": "JANUARY"},
 		{"trigger": "JAPAN\tmethods", "contents": "JAPAN"},
 		{"trigger": "JAPANESE\tmethods", "contents": "JAPANESE"},
@@ -1309,7 +1292,6 @@
 		{"trigger": "JoinFractureDirection\tmethods", "contents": "JoinFractureDirection"},
 		{"trigger": "JoinNextDirection\tmethods", "contents": "JoinNextDirection"},
 		{"trigger": "JoinPreviousDirection\tmethods", "contents": "JoinPreviousDirection"},
-
 		{"trigger": "K1Div2Luminance\tmethods", "contents": "K1Div2Luminance"},
 		{"trigger": "K1Luminance\tmethods", "contents": "K1Luminance"},
 		{"trigger": "K2Chrominance\tmethods", "contents": "K2Chrominance"},
@@ -1377,7 +1359,6 @@
 		{"trigger": "KRB_NT_SRV_XHST\tmethods", "contents": "KRB_NT_SRV_XHST"},
 		{"trigger": "KRB_NT_UID\tmethods", "contents": "KRB_NT_UID"},
 		{"trigger": "KRB_NT_UNKNOWN\tmethods", "contents": "KRB_NT_UNKNOWN"},
-
 		{"trigger": "LABEL\tmethods", "contents": "LABEL"},
 		{"trigger": "LABELED_BY\tmethods", "contents": "LABELED_BY"},
 		{"trigger": "LABELED_BY_PROPERTY\tmethods", "contents": "LABELED_BY_PROPERTY"},
@@ -1488,7 +1469,6 @@
 		{"trigger": "LYDIAN\tmethods", "contents": "LYDIAN"},
 		{"trigger": "LeftIndent\tmethods", "contents": "LeftIndent"},
 		{"trigger": "LineSpacing\tmethods", "contents": "LineSpacing"},
-
 		{"trigger": "MAGENTA\tmethods", "contents": "MAGENTA"},
 		{"trigger": "MAHJONG_TILES\tmethods", "contents": "MAHJONG_TILES"},
 		{"trigger": "MAIN\tmethods", "contents": "MAIN"},
@@ -1670,8 +1650,6 @@
 		{"trigger": "MinimumHeight\tmethods", "contents": "MinimumHeight"},
 		{"trigger": "MinimumWidth\tmethods", "contents": "MinimumWidth"},
 		{"trigger": "ModelAttribute\tmethods", "contents": "ModelAttribute"},
-
-
 		{"trigger": "NAME\tmethods", "contents": "NAME"},
 		{"trigger": "NAMES\tmethods", "contents": "NAMES"},
 		{"trigger": "NAMESPACE\tmethods", "contents": "NAMESPACE"},
@@ -1802,7 +1780,6 @@
 		{"trigger": "N_RESIZE_CURSOR\tmethods", "contents": "N_RESIZE_CURSOR"},
 		{"trigger": "NaN\tmethods", "contents": "NaN"},
 		{"trigger": "NameAttribute\tmethods", "contents": "NameAttribute"},
-
 		{"trigger": "OBJECT\tmethods", "contents": "OBJECT"},
 		{"trigger": "OBJECTNAME\tmethods", "contents": "OBJECTNAME"},
 		{"trigger": "OBJECT_ADDED\tmethods", "contents": "OBJECT_ADDED"},
@@ -1885,8 +1862,6 @@
 		{"trigger": "OVERFLOW\tmethods", "contents": "OVERFLOW"},
 		{"trigger": "Orientation\tmethods", "contents": "Orientation"},
 		{"trigger": "OriginateDirection\tmethods", "contents": "OriginateDirection"},
-
-
 		{"trigger": "PACKAGE\tmethods", "contents": "PACKAGE"},
 		{"trigger": "PADDING\tmethods", "contents": "PADDING"},
 		{"trigger": "PADDING_BOTTOM\tmethods", "contents": "PADDING_BOTTOM"},
@@ -2028,13 +2003,11 @@
 		{"trigger": "PUBLIC_XML_SCHEMA\tmethods", "contents": "PUBLIC_XML_SCHEMA"},
 		{"trigger": "PUSH_BUTTON\tmethods", "contents": "PUSH_BUTTON"},
 		{"trigger": "ParagraphElementName\tmethods", "contents": "ParagraphElementName"},
-
 		{"trigger": "QOP\tmethods", "contents": "QOP"},
 		{"trigger": "QUARTO\tmethods", "contents": "QUARTO"},
 		{"trigger": "QUERY_STRING\tmethods", "contents": "QUERY_STRING"},
 		{"trigger": "QUESTION_MESSAGE\tmethods", "contents": "QUESTION_MESSAGE"},
 		{"trigger": "QUEUED_IN_DEVICE\tmethods", "contents": "QUEUED_IN_DEVICE"},
-
 		{"trigger": "RADIO_BUTTON\tmethods", "contents": "RADIO_BUTTON"},
 		{"trigger": "RADIO_BUTTON_MENU_ITEM\tmethods", "contents": "RADIO_BUTTON_MENU_ITEM"},
 		{"trigger": "RAISED\tmethods", "contents": "RAISED"},
@@ -2150,7 +2123,6 @@
 		{"trigger": "RedoName\tmethods", "contents": "RedoName"},
 		{"trigger": "ResolveAttribute\tmethods", "contents": "ResolveAttribute"},
 		{"trigger": "RightIndent\tmethods", "contents": "RightIndent"},
-		{"trigger": "S\tmethods", "contents": "S"},
 		{"trigger": "SADDLE_STITCH\tmethods", "contents": "SADDLE_STITCH"},
 		{"trigger": "SAMARITAN\tmethods", "contents": "SAMARITAN"},
 		{"trigger": "SAMP\tmethods", "contents": "SAMP"},
@@ -2731,7 +2703,6 @@
 		{"trigger": "TYPE_Yxy\tmethods", "contents": "TYPE_Yxy"},
 		{"trigger": "TabSet\tmethods", "contents": "TabSet"},
 		{"trigger": "TitleProperty\tmethods", "contents": "TitleProperty"},
-		{"trigger": "U\tmethods", "contents": "U"},
 		{"trigger": "UGARITIC\tmethods", "contents": "UGARITIC"},
 		{"trigger": "UK\tmethods", "contents": "UK"},
 		{"trigger": "UL\tmethods", "contents": "UL"},
@@ -3383,7 +3354,8 @@
 		{"trigger": "acquireUninterruptibly()\tmethods", "contents": "acquireUninterruptibly($1)"},
 		{"trigger": "acquiredBy()\tmethods", "contents": "acquiredBy($1)"},
 		{"trigger": "action()\tmethods", "contents": "action($1)"},
-		{"trigger": "actionListener\tmethods", "contents": "actionListener"},		
+		{"trigger": "actionListener\tmethods", "contents": "actionListener"},
+		{"trigger": "ActionListener\tmethods", "contents": "ActionListener"},		
 		{"trigger": "actionName\tmethods", "contents": "actionName"},
 		{"trigger": "actionPerformed()\tmethods", "contents": "actionPerformed($1)"},
 		{"trigger": "actionPropertyChanged()\tmethods", "contents": "actionPropertyChanged($1)"},
@@ -14421,11 +14393,17 @@
 		{"trigger": "written\tmethods", "contents": "written"},
 		{"trigger": "wsdlDocumentLocation()\tmethods", "contents": "wsdlDocumentLocation($1)"},
 
+		// {"trigger": "x\tmethods", "contents": "x"},
+		// {"trigger": "x1\tmethods", "contents": "x1"},
+		// {"trigger": "x2\tmethods", "contents": "x2"},
 
 		{"trigger": "xPositionForValue()\tmethods", "contents": "xPositionForValue($1)"},
 		{"trigger": "xor()\tmethods", "contents": "xor($1)"},
 		{"trigger": "xpoints\tmethods", "contents": "xpoints"},
 
+		// {"trigger": "y\tmethods", "contents": "y"},
+		// {"trigger": "y1\tmethods", "contents": "y1"},
+		// {"trigger": "y2\tmethods", "contents": "y2"},
 
 		{"trigger": "yPositionForValue()\tmethods", "contents": "yPositionForValue($1)"},
 		{"trigger": "yellow\tmethods", "contents": "yellow"},
