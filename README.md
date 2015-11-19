@@ -23,13 +23,13 @@ To show a listener interface completion, type **L-** followed by the listener in
 	
 **L-Focus** TAB should show 
 
-```
+```java
 	FocusListener
 ```
 
 #### Class Instance
 Type **I-class name** e.g. **I-Scanner** should show
-```python
+```java
 	Scanner input = new Scanner(System.in);
 
 ```
@@ -37,7 +37,7 @@ Type **I-class name** e.g. **I-Scanner** should show
 Type **E-** followed by event and press tab. e.g.
 	**E-act** then press TAB should show
 
-```python
+```java
 	public void actionPerformed(ActionEvent e){
 	 // contents 
 	}
@@ -45,7 +45,7 @@ Type **E-** followed by event and press tab. e.g.
 
 #### Try Catch
 You can also press **try** then TAB to get
-```python
+```java
 	try {
 		
 	}
