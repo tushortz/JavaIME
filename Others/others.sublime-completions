@@ -1,0 +1,7 @@
+{
+	"scope": "source.java",
+	"completions":
+	[	
+		{"trigger": "try", "contents": "try {\n\t$1\n}\n\ncatch (${2:Exception} ${3:err}) {\n\tSystem.out.println(${3:err}.${4:getMessage()});\n}"},
+	]
+}

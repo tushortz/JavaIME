@@ -1,0 +1,5 @@
+
+* Changes to package to make it lightweight.
+* Added methods completions as well.
+
+
