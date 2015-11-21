@@ -1,0 +1,5 @@
+* Added Instances completion
+* Fixed some issues
+* Chance certain completion options
+* Added static methods completion
+* Major improvements

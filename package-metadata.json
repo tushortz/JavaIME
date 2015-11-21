@@ -1,0 +1,1 @@
+{"description": "Easily import Java classes and method completions in Sublime text", "platforms": ["*"], "dependencies": [], "sublime_text": "*", "url": "https://github.com/tushortz/JavaIME", "version": "3.0.0"}

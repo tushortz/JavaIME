@@ -1,0 +1,96 @@
+
+ _______    ____      __    __     ____       ________    ____      ____    _________
+(___   |   /  _  \   |  |  |  |   /  _  \    |__    __|  |    \   /     |  /   ______)
+    |  |  /  /_\  \  |  |  |  |  /  /_\  \      |  |     |  |\  \/  /|  |  |  |___
+ _  |  | |   ___   | |  |  |  | |   ___   |     |  |     |  | \    / |  |  |  ____)
+/ \_/  | |  |   |  |  \  \/  /  |  |   |  |   __|  |__   |  |  \__/  |  |  |  |______
+|_____/  |__|   |__|   \____/   |__|   |__|  |________|  |__|        |__|  \_________)
+
+
+Welcome to Java Import Made Easy (JavaIME)
+===========================================
+
+About
+======
+
+  This Sublime text package makes it easy to import virtually all Java packages, gives method completion suggestions for java methods, easily instantiate objects and create action listener methods.
+
+
+How to Use
+==========
+
+You can use a lot of JavaIME features in the following ways.
+
+  Methods
+  =======
+    Normal methods would pop up suggestions as you type.
+
+    Static methods can be used by pressing 
+
+    **S-** followed by method name. e.g.
+      Type **S-AR**  then TAB to get
+
+        ARGV
+
+
+  Import
+  ======
+     _______________________________________________________________
+    | Note you can also press ENTER rather than TAB for completion |
+     ---------------------------------------------------------------
+
+    To import the java.utils.Collections package, type COLLECTIONS in (uppercase). 
+    Suggestions should already be popping up then press TAB to select. 
+    The package will be automatically imported.
+
+  Auto-Complete listener interfaces
+  =================================
+
+    To show a listener interface completion, type L- followed by the listener interface name. e.g.
+
+    L-Focus TAB should show
+
+        FocusListener
+
+  Class Instance
+  ==============
+
+    Type I-class name e.g. I-Scanner should show
+
+        Scanner input = new Scanner(System.in);
+
+  Listener Events
+  ===============
+
+    Type E- followed by event and press tab. e.g.
+    E-act then press TAB should show
+
+        public void actionPerformed(ActionEvent e){
+         // contents 
+        }
+
+  Try-Catch
+  =========
+
+  You can also press try then TAB after typing try to get
+     
+      try {
+
+      }
+
+      catch (Exception err) {
+          System.out.println(err.getMessage());
+      }
+
+
+  Contributing
+  =============
+
+    All contributions are welcome. Just fork it on Github <https://github.com/tushortz/JavaIME> and create a pull request.
+
+  License
+  ========
+
+    © 2015 Taiwo Kareem | taiwo.kareem36@gmail.com.
+
+    Read license.txt
