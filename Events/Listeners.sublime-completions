@@ -41,6 +41,5 @@
 		{"trigger": "L-WindowFocusListener", "contents": "WindowFocusListener"},
 		{"trigger": "L-WindowListener", "contents": "WindowListener"},
 		{"trigger": "L-WindowStateListener", "contents": "WindowStateListener"},
-
 	]
 }

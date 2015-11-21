@@ -940,11 +940,7 @@
 		{"trigger": "concrete_base_type()\tmethods", "contents": "concrete_base_type($1)"},
 		{"trigger": "config()\tmethods", "contents": "config($1)"},
 		{"trigger": "configureArrowButton()\tmethods", "contents": "configureArrowButton($1)"},
-<<<<<<< HEAD
 		{"trigger": "configureBlocking()\tmethods", "contents": "configureBlocking(${1:false})"},
-=======
-		{"trigger": "configureBlocking()\tmethods", "contents": "configureBlocking($1)"},
->>>>>>> 4766bfdac0989d4a00cd74b73a956991eeb7bb77
 		{"trigger": "configureEditor()\tmethods", "contents": "configureEditor($1)"},
 		{"trigger": "configureGraphics()\tmethods", "contents": "configureGraphics($1)"},
 		{"trigger": "configureLayoutCache()\tmethods", "contents": "configureLayoutCache($1)"},
@@ -9897,11 +9893,7 @@
 		{"trigger": "setSigProvider()\tmethods", "contents": "setSigProvider($1)"},
 		{"trigger": "setSigned()\tmethods", "contents": "setSigned($1)"},
 		{"trigger": "setSigners()\tmethods", "contents": "setSigners($1)"},
-<<<<<<< HEAD
 		{"trigger": "setSize()\tmethods", "contents": "setSize(${1:320}, ${2:240})"},
-=======
-		{"trigger": "setSize()\tmethods", "contents": "setSize($1)"},
->>>>>>> 4766bfdac0989d4a00cd74b73a956991eeb7bb77
 		{"trigger": "setSlaveSyncMode()\tmethods", "contents": "setSlaveSyncMode($1)"},
 		{"trigger": "setSoLinger()\tmethods", "contents": "setSoLinger($1)"},
 		{"trigger": "setSoTimeout()\tmethods", "contents": "setSoTimeout($1)"},
@@ -10203,11 +10195,7 @@
 		{"trigger": "skippedEntity()\tmethods", "contents": "skippedEntity($1)"},
 		{"trigger": "slashSlashComments()\tmethods", "contents": "slashSlashComments($1)"},
 		{"trigger": "slashStarComments()\tmethods", "contents": "slashStarComments($1)"},
-<<<<<<< HEAD
 		{"trigger": "sleep()\tmethods", "contents": "sleep(${1:5000})"},
-=======
-		{"trigger": "sleep()\tmethods", "contents": "sleep($1)"},
->>>>>>> 4766bfdac0989d4a00cd74b73a956991eeb7bb77
 		{"trigger": "slice()\tmethods", "contents": "slice($1)"},
 		{"trigger": "slider\tmethods", "contents": "slider"},
 		{"trigger": "socket()\tmethods", "contents": "socket($1)"},

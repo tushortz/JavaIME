@@ -1,0 +1,6 @@
+* added extra arguments to commonly used methods and classes
+* added throw exception method
+* fixed byte class code
+* improved methods 
+* other minor improvements
+* fixed git head problems
