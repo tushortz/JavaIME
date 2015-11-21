@@ -2,11 +2,15 @@
 	"scope": "source.java",
 	"completions":
 	[	
+<<<<<<< HEAD
 		{"trigger": "try", "contents": "try {\n\t$1\n}\n\ncatch (${2:Exception} ${3:err}) {\n\tSystem.err.println(${3:err}.${4:getMessage()});\n}"},
 		{"trigger": "while\tloop", "contents": "while (${1:true}){\n\t$2\n}"},
 		{"trigger": "run\tvoid**", "contents": "public void run(){\n\t$2\n}"},
 		{"trigger": "SwingUtilities*", "contents": "SwingUtilities.${1:invokeLater(}${2:new method()})"},
 		{"trigger": "continue", "contents": "continue"},
 		{"trigger": "throw\tException", "contents": "throws Exception"},
+=======
+		{"trigger": "try", "contents": "try {\n\t$1\n}\n\ncatch (${2:Exception} ${3:err}) {\n\tSystem.out.println(${3:err}.${4:getMessage()});\n}"},
+>>>>>>> 4766bfdac0989d4a00cd74b73a956991eeb7bb77
 	]
 }

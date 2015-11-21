@@ -738,7 +738,11 @@
 		{"trigger": "I-ButtonSkin\tinit", "contents": "ButtonSkin ${1:skin} = new ButtonSkin($2);"},
 		{"trigger": "I-ButtonType\tinit", "contents": "ButtonType ${1:type} = new ButtonType($2);"},
 		{"trigger": "I-ButtonUI\tinit", "contents": "ButtonUI ${1:buttonui} = new ButtonUI($2);"},
+<<<<<<< HEAD
 		{"trigger": "I-Byte\tinit", "contents": "byte[] ${1:buffer} = new byte[${2:2048}];"},
+=======
+		{"trigger": "I-Byte\tinit", "contents": "Byte ${1:byte} = new Byte($2);"},
+>>>>>>> 4766bfdac0989d4a00cd74b73a956991eeb7bb77
 		{"trigger": "I-ByteArgb\tinit", "contents": "ByteArgb ${1:argb} = new ByteArgb($2);"},
 		{"trigger": "I-ByteArrayInputStream\tinit", "contents": "ByteArrayInputStream ${1:stream} = new ByteArrayInputStream($2);"},
 		{"trigger": "I-ByteArrayOutputStream\tinit", "contents": "ByteArrayOutputStream ${1:stream} = new ByteArrayOutputStream($2);"},
@@ -3369,7 +3373,11 @@
 		{"trigger": "I-InetAddressAcl\tinit", "contents": "InetAddressAcl ${1:acl} = new InetAddressAcl($2);"},
 		{"trigger": "I-InetAddressContainer\tinit", "contents": "InetAddressContainer ${1:container} = new InetAddressContainer($2);"},
 		{"trigger": "I-InetAddressImpl\tinit", "contents": "InetAddressImpl ${1:impl} = new InetAddressImpl($2);"},
+<<<<<<< HEAD
 		{"trigger": "I-InetSocketAddress\tinit", "contents": "InetSocketAddress ${1:address} = new InetSocketAddress(${2:\"addr\"}, ${3:port});"},
+=======
+		{"trigger": "I-InetSocketAddress\tinit", "contents": "InetSocketAddress ${1:address} = new InetSocketAddress($2);"},
+>>>>>>> 4766bfdac0989d4a00cd74b73a956991eeb7bb77
 		{"trigger": "I-InfiniteClipEnvelope\tinit", "contents": "InfiniteClipEnvelope ${1:envelope} = new InfiniteClipEnvelope($2);"},
 		{"trigger": "I-Inflater\tinit", "contents": "Inflater ${1:inflater} = new Inflater($2);"},
 		{"trigger": "I-InflaterInputStream\tinit", "contents": "InflaterInputStream ${1:stream} = new InflaterInputStream($2);"},
@@ -3704,7 +3712,11 @@
 		{"trigger": "I-JFXTextRenderer\tinit", "contents": "JFXTextRenderer ${1:renderer} = new JFXTextRenderer($2);"},
 		{"trigger": "I-JFileChooser\tinit", "contents": "JFileChooser ${1:chooser} = new JFileChooser($2);"},
 		{"trigger": "I-JFormattedTextField\tinit", "contents": "JFormattedTextField ${1:field} = new JFormattedTextField($2);"},
+<<<<<<< HEAD
 		{"trigger": "I-JFrame\tinit", "contents": "JFrame ${1:frame} = new JFrame(\"${2:My title}\");"},
+=======
+		{"trigger": "I-JFrame\tinit", "contents": "JFrame ${1:frame} = new JFrame($2);"},
+>>>>>>> 4766bfdac0989d4a00cd74b73a956991eeb7bb77
 		{"trigger": "I-JInternalFrame\tinit", "contents": "JInternalFrame ${1:frame} = new JInternalFrame($2);"},
 		{"trigger": "I-JJTParserState\tinit", "contents": "JJTParserState ${1:state} = new JJTParserState($2);"},
 		{"trigger": "I-JLabel\tinit", "contents": "JLabel ${1:label} = new JLabel($2);"},
@@ -7807,7 +7819,11 @@
 		{"trigger": "I-URIResolver\tinit", "contents": "URIResolver ${1:resolver} = new URIResolver($2);"},
 		{"trigger": "I-URISyntax\tinit", "contents": "URISyntax ${1:syntax} = new URISyntax($2);"},
 		{"trigger": "I-URISyntaxException\tinit", "contents": "URISyntaxException ${1:exception} = new URISyntaxException($2);"},
+<<<<<<< HEAD
 		{"trigger": "I-URL\tinit", "contents": "URL ${1:url} = new URL(${2:\"website\"});"},
+=======
+		{"trigger": "I-URL\tinit", "contents": "URL ${1:url} = new URL($2);"},
+>>>>>>> 4766bfdac0989d4a00cd74b73a956991eeb7bb77
 		{"trigger": "I-URLBuilder\tinit", "contents": "URLBuilder ${1:builder} = new URLBuilder($2);"},
 		{"trigger": "I-URLClassLoader\tinit", "contents": "URLClassLoader ${1:loader} = new URLClassLoader($2);"},
 		{"trigger": "I-URLConnection\tinit", "contents": "URLConnection ${1:connection} = new URLConnection($2);"},
