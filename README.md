@@ -58,11 +58,73 @@ You can also press **try** then TAB to get
 #### Methods
 Methods pop up by default so you can just press TAB or ENTER.
 
-#### Static methods
+#### Static properties
 Type **S-** followed by method name. e.g.
-Type **S-AR**  then TAB to get
+Type **s-magenta**  then TAB to get
 
-	ARGV
+	MAGENTA
+
+#### class declaration
+
+pc -> generates a public class declaration
+pcm -> generates the public class declaration with a main method
+pcc -> generates the public class declaration with a constructor
+pccm -> generates the public class declaration with a main method and constructor
+pcfx -> generates a public class declaration for JavaFX and a main method.
+
+##### Example
+
+> Assume we have a file named Test.java
+
+Typing **pc** then `TAB` or `ENTER` should produce
+
+``` java
+public class Test {
+	
+}
+```
+
+Typing **pcc** then `TAB` or `ENTER` should produce
+
+``` java
+public class Test {
+	
+	// Constructor
+	public Test(){
+		
+	}
+	
+}
+```
+
+Typing **pcm** then `TAB` or `ENTER` should produce
+
+``` java
+public class Test {
+
+	public static void main(String[] args){
+		
+	}	
+}
+```
+
+Typing **pcfx** then `TAB` or `ENTER` should produce
+
+``` java
+public class Test extends Application{
+
+	@Override
+	public void start(Stage primaryStage) throws Exception {
+		// Contents
+	}
+	
+	public static void main(String[] args){
+		launch(args);
+	}
+	
+}
+```
+> ... and so on!
 
 
 ## Installation
@@ -96,7 +158,7 @@ While inside the `Packages` directory, clone the theme repository using the comm
 
 ## Contributing
 
-All contributions are welcome. 
+All contributions are welcome. fork me on [Github](https://github.com/tushortz/JavaIME) and create a `pull` request. Any suggestions or bugs, please let me know.
 
 ## License
 © 2015 Taiwo Kareem | taiwo.kareem36@gmail.com.
@@ -105,3 +167,4 @@ Read **license.txt**
 
 ## Acknowledgements
 I'd first like to say a very big thank you to God my creator. Without him, this wouldn't be possible.
+

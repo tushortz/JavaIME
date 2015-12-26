@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+
+public class ${TM_FILENAME/(\.\w+)//g} {
+	
+	$1
+
+	public static void main(String[] args){
+		
+	}	
+}]]></content>
+    <tabTrigger>pcm</tabTrigger>
+    <scope>source.java</scope>
+    <description>class - main</description>
+</snippet>

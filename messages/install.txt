@@ -82,6 +82,15 @@ You can use a lot of JavaIME features in the following ways.
           System.out.println(err.getMessage());
       }
 
+  Others
+  ======
+    pc -> generates a public class declaration
+    pcm -> generates the public class declaration with a main method
+    pcc -> generates the public class declaration with a constructor
+    pccm -> generates the public class declaration with a main method and constructor
+    pcfx -> generates javaFX public class declaration and main method
+
+for other cool completions, please go to https://github.com/tushortz
 
   Contributing
   =============

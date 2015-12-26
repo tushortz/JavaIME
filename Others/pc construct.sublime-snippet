@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+
+public class ${TM_FILENAME/(\.\w+)//g} {
+	
+	// Constructor
+	public ${TM_FILENAME/(\.\w+)//g}($1){
+		$2
+	}
+	
+}]]></content>
+    <tabTrigger>pcc</tabTrigger>
+    <scope>source.java</scope>
+    <description>class - constructor</description>
+</snippet>

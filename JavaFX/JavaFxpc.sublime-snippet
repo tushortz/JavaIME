@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+
+public class ${TM_FILENAME/(\.\w+)//g} extends ${1:Application}{
+
+	@Override
+	public void start(Stage ${2:primaryStage}) throws ${3:Exception} {
+		${4:// Contents}
+	}
+	
+	public static void main(String[] args){
+		launch(args);
+	}
+	
+}]]></content>
+    <tabTrigger>pcfx</tabTrigger>
+    <scope>source.java</scope>
+    <description>JavaFX public class</description>
+</snippet>

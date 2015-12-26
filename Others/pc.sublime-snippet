@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+
+public class ${TM_FILENAME/(\.\w+)//g} {
+	$1
+}]]></content>
+    <tabTrigger>pc</tabTrigger>
+    <scope>source.java</scope>
+    <description>class declaration</description>
+</snippet>

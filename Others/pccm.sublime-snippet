@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+
+public class ${TM_FILENAME/(\.\w+)//g} {
+	
+	// Constructor
+	public ${TM_FILENAME/(\.\w+)//g}($1){
+		$2
+	}
+
+	public static void main(String[] args){
+		$3
+	}
+	
+}]]></content>
+    <tabTrigger>pcmc</tabTrigger>
+    <scope>source.java</scope>
+    <description>class - main - constructor</description>
+</snippet>

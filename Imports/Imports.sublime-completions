@@ -5888,7 +5888,7 @@
 		{"trigger": "INTSUMMARYSTATISTICS\tJava Class", "contents": "import java.util.IntSummaryStatistics;\n"},
 		{"trigger": "JUMBOENUMSET\tJava Class", "contents": "import java.util.JumboEnumSet;\n"},
 		{"trigger": "JAPANESEIMPERIALCALENDAR\tJava Class", "contents": "import java.util.JapaneseImperialCalendar;\n"},
-		{"trigger": "LIST\tJava Class", "contents": "import java.util.List;\n"},
+		{"trigger": "LIST\tJava* Class", "contents": "import java.util.List;\n"},
 		{"trigger": "LOCALE\tJava Class", "contents": "import java.util.Locale;\n"},
 		{"trigger": "LINKEDHASHMAP\tJava Class", "contents": "import java.util.LinkedHashMap;\n"},
 		{"trigger": "LINKEDHASHSET\tJava Class", "contents": "import java.util.LinkedHashSet;\n"},
