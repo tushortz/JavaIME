@@ -1,0 +1,8 @@
+
+=============================
+* added JavaFX methods
+* added JavaFX class declarations
+* added Java class declarations
+* added more methods
+* added arguments to commonly used methods
+* fixed some wrong instance suggestions
