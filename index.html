@@ -1,31 +1,176 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!doctype html>
+<html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>JavaIME by tushortz</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">JavaIME</h1>
-      <h2 class="project-tagline">Java Import Made Easy (JavaIME) is a Sublime text package that makes importing any java package easy.</h2>
-      <a href="https://github.com/tushortz/JavaIME" class="btn">View on GitHub</a>
-      <a href="https://github.com/tushortz/JavaIME/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/tushortz/JavaIME/tarball/master" class="btn">Download .tar.gz</a>
-    </section>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">JavaIME</h1>
+        <p class="header">Java Import Made Easy (JavaIME) is a Sublime text package that allows you to easily write your programs </p>
 
-    <section class="main-content">
-      <h1>
+        <ul>
+          <li class="download"><a class="buttons" href="https://github.com/tushortz/JavaIME/zipball/master">Download ZIP</a></li>
+          <li class="download"><a class="buttons" href="https://github.com/tushortz/JavaIME/tarball/master">Download TAR</a></li>
+          <li><a class="buttons github" href="https://github.com/tushortz/JavaIME">View On GitHub</a></li>
+        </ul>
+
+        <p class="header">This project is maintained by <a class="header name" href="https://github.com/tushortz">tushortz</a></p>
+
+
+      </header>
+      <section>
+        <h1>
 <a id="java-import-made-easy-javaime" class="anchor" href="#java-import-made-easy-javaime" aria-hidden="true"><span class="octicon octicon-link"></span></a>Java Import Made Easy (JavaIME)</h1>
 
 <h2>
 <a id="about" class="anchor" href="#about" aria-hidden="true"><span class="octicon octicon-link"></span></a>About</h2>
 
-<p><strong>JavaIME</strong> is a Sublime text package that makes importing any java package easy.</p>
+<p>This Sublime text package makes it easy to import virtually all Java packages, gives method completion suggestions for java methods, easily instantiate objects and create action listener methods.</p>
+
+<h2>
+<a id="how-to-use" class="anchor" href="#how-to-use" aria-hidden="true"><span class="octicon octicon-link"></span></a>How to Use</h2>
+
+<p>You can use a lot of JavaIME features in the following ways.</p>
+
+<h3>
+<a id="example" class="anchor" href="#example" aria-hidden="true"><span class="octicon octicon-link"></span></a>Example</h3>
+
+<h4>
+<a id="import" class="anchor" href="#import" aria-hidden="true"><span class="octicon octicon-link"></span></a>Import</h4>
+
+<blockquote>
+<p>Note you can also press ENTER rather than TAB</p>
+</blockquote>
+
+<p>To import the <em>java.utils.Collections package</em>, type <strong>COLLECTIONS</strong> in <em>(uppercase)</em>. Suggestions should already be popping up then press <em>TAB</em> to select. The package will be automatically imported.</p>
+
+<h4>
+<a id="auto-complete-listener-interfaces" class="anchor" href="#auto-complete-listener-interfaces" aria-hidden="true"><span class="octicon octicon-link"></span></a>Auto-Complete listener interfaces</h4>
+
+<p>To show a listener interface completion, type <strong>L-</strong> followed by the listener interface name. e.g.</p>
+
+<p><strong>L-Focus</strong> TAB should show </p>
+
+<div class="highlight highlight-source-java"><pre>    <span class="pl-smi">FocusListener</span></pre></div>
+
+<h4>
+<a id="class-instance" class="anchor" href="#class-instance" aria-hidden="true"><span class="octicon octicon-link"></span></a>Class Instance</h4>
+
+<p>Type <strong>I-class name</strong> e.g. <strong>I-Scanner</strong> should show</p>
+
+<div class="highlight highlight-source-java"><pre>    <span class="pl-smi">Scanner</span> input <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-smi">Scanner</span>(<span class="pl-smi">System</span><span class="pl-k">.</span>in);
+</pre></div>
+
+<h4>
+<a id="listener-events" class="anchor" href="#listener-events" aria-hidden="true"><span class="octicon octicon-link"></span></a>Listener Events</h4>
+
+<p>Type <strong>E-</strong> followed by event and press tab. e.g.
+    <strong>E-act</strong> then press TAB should show</p>
+
+<div class="highlight highlight-source-java"><pre>    <span class="pl-k">public</span> <span class="pl-k">void</span> actionPerformed(<span class="pl-smi">ActionEvent</span> e){
+     <span class="pl-c">// contents </span>
+    }</pre></div>
+
+<h4>
+<a id="try-catch" class="anchor" href="#try-catch" aria-hidden="true"><span class="octicon octicon-link"></span></a>Try Catch</h4>
+
+<p>You can also press <strong>try</strong> then TAB to get</p>
+
+<div class="highlight highlight-source-java"><pre>    <span class="pl-k">try</span> {
+
+    }
+
+    <span class="pl-k">catch</span> (<span class="pl-smi">Exception</span> err) {
+        <span class="pl-smi">System</span><span class="pl-k">.</span>out<span class="pl-k">.</span>println(err<span class="pl-k">.</span>getMessage());
+    }</pre></div>
+
+<h4>
+<a id="methods" class="anchor" href="#methods" aria-hidden="true"><span class="octicon octicon-link"></span></a>Methods</h4>
+
+<p>Methods pop up by default so you can just press TAB or ENTER.</p>
+
+<h4>
+<a id="static-properties" class="anchor" href="#static-properties" aria-hidden="true"><span class="octicon octicon-link"></span></a>Static properties</h4>
+
+<p>Type <strong>S-</strong> followed by method name. e.g.
+Type <strong>s-magenta</strong>  then TAB to get</p>
+
+<pre><code>MAGENTA
+</code></pre>
+
+<h4>
+<a id="class-declaration" class="anchor" href="#class-declaration" aria-hidden="true"><span class="octicon octicon-link"></span></a>class declaration</h4>
+
+<ul>
+<li>pc -&gt; generates a public class declaration</li>
+<li>pcm -&gt; generates the public class declaration with a main method</li>
+<li>pcc -&gt; generates the public class declaration with a constructor</li>
+<li>pccm -&gt; generates the public class declaration with a main method and constructor</li>
+<li>pcfx -&gt; generates a public class declaration for JavaFX and a main method.</li>
+</ul>
+
+<h5>
+<a id="example-1" class="anchor" href="#example-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Example</h5>
+
+<blockquote>
+<p>Assume we have a file named Test.java</p>
+</blockquote>
+
+<p>Typing <strong>pc</strong> then <code>TAB</code> or <code>ENTER</code> should produce</p>
+
+<div class="highlight highlight-source-java"><pre><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Test</span> {
+
+}</pre></div>
+
+<p>Typing <strong>pcc</strong> then <code>TAB</code> or <code>ENTER</code> should produce</p>
+
+<div class="highlight highlight-source-java"><pre><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Test</span> {
+
+    <span class="pl-c">// Constructor</span>
+    <span class="pl-k">public</span> <span class="pl-en">Test</span>(){
+
+    }
+
+}</pre></div>
+
+<p>Typing <strong>pcm</strong> then <code>TAB</code> or <code>ENTER</code> should produce</p>
+
+<div class="highlight highlight-source-java"><pre><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Test</span> {
+
+    <span class="pl-k">public</span> <span class="pl-k">static</span> <span class="pl-k">void</span> <span class="pl-en">main</span>(<span class="pl-k">String</span>[] <span class="pl-v">args</span>){
+
+    }   
+}</pre></div>
+
+<p>Typing <strong>pcfx</strong> then <code>TAB</code> or <code>ENTER</code> should produce</p>
+
+<div class="highlight highlight-source-java"><pre><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Test</span> <span class="pl-k">extends</span> <span class="pl-e">Application</span>{
+
+    <span class="pl-k">@Override</span>
+    <span class="pl-k">public</span> <span class="pl-k">void</span> <span class="pl-en">start</span>(<span class="pl-smi">Stage</span> <span class="pl-v">primaryStage</span>) <span class="pl-k">throws</span> <span class="pl-smi">Exception</span> {
+        <span class="pl-c">// Contents</span>
+    }
+
+    <span class="pl-k">public</span> <span class="pl-k">static</span> <span class="pl-k">void</span> <span class="pl-en">main</span>(<span class="pl-k">String</span>[] <span class="pl-v">args</span>){
+        launch(args);
+    }
+
+}</pre></div>
+
+<blockquote>
+<p>... and so on!</p>
+</blockquote>
 
 <h2>
 <a id="installation" class="anchor" href="#installation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Installation</h2>
@@ -59,81 +204,32 @@
 <ul>
 <li>Download the files using the GitHub .zip download option</li>
 <li>Unzip the files</li>
-<li>Copy the folder to your Sublime Text 2 <code>Packages</code> directory</li>
+<li>Copy the folder to your Sublime Text <code>Packages</code> directory</li>
 </ul>
-
-<p>optionally</p>
-
-<h3>
-<a id="for-windows" class="anchor" href="#for-windows" aria-hidden="true"><span class="octicon octicon-link"></span></a>For windows</h3>
-
-<h4>
-<a id="for-sublime-text-2" class="anchor" href="#for-sublime-text-2" aria-hidden="true"><span class="octicon octicon-link"></span></a>for Sublime text 2</h4>
-
-<p>copy the <strong>JavaIME</strong> folder and paste the file into the location of your default packages. It should be found by opening sublime text then clicking <code>preferences -&gt; Packages</code></p>
-
-<h4>
-<a id="for-sublime-text-3" class="anchor" href="#for-sublime-text-3" aria-hidden="true"><span class="octicon octicon-link"></span></a>For Sublime text 3</h4>
-
-<p>copy the <strong>JavaIME</strong> folder and paste the file into the following location.</p>
-
-<h5>
-<a id="file-location" class="anchor" href="#file-location" aria-hidden="true"><span class="octicon octicon-link"></span></a>File location</h5>
-
-<blockquote>
-<p><strong>Note:</strong> You will need to <em>show hidden files</em> first</p>
-
-<p>C:\Users\User name\AppData\Local\Sublime Text 3\Cache</p>
-</blockquote>
-
-<h2>
-<a id="how-to-use" class="anchor" href="#how-to-use" aria-hidden="true"><span class="octicon octicon-link"></span></a>How to Use</h2>
-
-<p>On a Java file in sublime text, click on the line where you want to import the Java Package then type its name all in uppercase and suggestions should follow.</p>
-
-<h3>
-<a id="example" class="anchor" href="#example" aria-hidden="true"><span class="octicon octicon-link"></span></a>Example</h3>
-
-<p>To import the <em>java.utils.Collections package</em>, type <strong>COLLECTIONS</strong> in <em>(uppercase)</em>. Suggestions should already be popping up then press <em>TAB</em> to select. The package will be automatically imported.</p>
-
-<h3>
-<a id="screenshot" class="anchor" href="#screenshot" aria-hidden="true"><span class="octicon octicon-link"></span></a>Screenshot</h3>
-
-<p><img src="https://raw.githubusercontent.com/tushortz/JavaIME/master/preview.png" alt="Java Import Made Easy {JavaIME}"></p>
 
 <h2>
 <a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contributing</h2>
 
-<p>All contributions are welcome. </p>
+<p>All contributions are welcome. fork me on <a href="https://github.com/tushortz/JavaIME">Github</a> and create a <code>pull</code> request. Any suggestions or bugs, please let me know.</p>
 
 <h2>
 <a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h2>
 
 <p>© 2015 Taiwo Kareem | <a href="mailto:taiwo.kareem36@gmail.com">taiwo.kareem36@gmail.com</a>.</p>
 
-<p>This is free software. It is licensed under the MIT License. Feel free to use this in your own work. However, if you modify and/or redistribute it, please attribute me in some way, and it would be great if you distribute your work under this or a similar license, but it's not required.</p>
+<p>Read <strong>license.txt</strong></p>
 
 <h2>
 <a id="acknowledgements" class="anchor" href="#acknowledgements" aria-hidden="true"><span class="octicon octicon-link"></span></a>Acknowledgements</h2>
 
 <p>I'd first like to say a very big thank you to God my creator. Without him, this wouldn't be possible.</p>
-
-<h2>
-<a id="donating" class="anchor" href="#donating" aria-hidden="true"><span class="octicon octicon-link"></span></a>Donating</h2>
-
-<blockquote>
-<p>If you would like to show appreciation for the efforts and time spent making this, Please contact me on my email <strong><a href="mailto:taiwo.kareem36@gmail.com">taiwo.kareem36@gmail.com</a></strong></p>
-</blockquote>
-
-      <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/tushortz/JavaIME">JavaIME</a> is maintained by <a href="https://github.com/tushortz">tushortz</a>.</span>
-
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </section>
+      <footer>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
       </footer>
-
-    </section>
-
-            <script type="text/javascript">
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		          <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
           </script>
