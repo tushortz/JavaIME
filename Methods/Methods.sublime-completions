@@ -9875,7 +9875,6 @@
 		{"trigger": "setSelectionEnd()\tfunc", "contents": "setSelectionEnd($1)"},
 		{"trigger": "setSelectionInterval()\tfunc", "contents": "setSelectionInterval($1)"},
 		{"trigger": "setSelectionMode()\tfunc", "contents": "setSelectionMode($1)"},
-		{"trigger": "setSelectionModel()\tfunc", "contents": "setSelectionModel($1)"},
 		{"trigger": "setSelectionPath()\tfunc", "contents": "setSelectionPath($1)"},
 		{"trigger": "setSelectionPaths()\tfunc", "contents": "setSelectionPaths($1)"},
 		{"trigger": "setSelectionStart()\tfunc", "contents": "setSelectionStart($1)"},

@@ -66,11 +66,11 @@ Type **s-magenta**  then TAB to get
 
 #### class declaration
 
-* pc -> generates a public class declaration
-* pcm -> generates the public class declaration with a main method
-* pcc -> generates the public class declaration with a constructor
-* pccm -> generates the public class declaration with a main method and constructor
-* pcfx -> generates a public class declaration for JavaFX and a main method.
+pc -> generates a public class declaration
+pcm -> generates the public class declaration with a main method
+pcc -> generates the public class declaration with a constructor
+pccm -> generates the public class declaration with a main method and constructor
+pcfx -> generates a public class declaration for JavaFX and a main method.
 
 ##### Example
 
