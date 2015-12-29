@@ -19,6 +19,7 @@ You can use a lot of JavaIME features in the following ways.
 To import the *java.utils.Collections package*, type **COLLECTIONS** in *(uppercase)*. Suggestions should already be popping up then press *TAB* to select. The package will be automatically imported.
 
 #### Auto-Complete listener interfaces
+
 To show a listener interface completion, type **L-** followed by the listener interface name. e.g.
 	
 **L-Focus** TAB should show 
@@ -28,12 +29,14 @@ To show a listener interface completion, type **L-** followed by the listener in
 ```
 
 #### Class Instance
+
 Type **I-class name** e.g. **I-Scanner** should show
 ```java
 	Scanner input = new Scanner(System.in);
-
 ```
+
 #### Listener Events
+
 Type **E-** followed by event and press tab. e.g.
 	**E-act** then press TAB should show
 
@@ -45,6 +48,7 @@ Type **E-** followed by event and press tab. e.g.
 
 #### Try Catch
 You can also press **try** then TAB to get
+
 ```java
 	try {
 		
@@ -56,6 +60,7 @@ You can also press **try** then TAB to get
 ```
 
 #### Methods
+
 Methods pop up by default so you can just press TAB or ENTER.
 
 #### Static properties
@@ -64,13 +69,14 @@ Type **s-magenta**  then TAB to get
 
 	MAGENTA
 
+
 #### class declaration
 
-pc -> generates a public class declaration
-pcm -> generates the public class declaration with a main method
-pcc -> generates the public class declaration with a constructor
-pccm -> generates the public class declaration with a main method and constructor
-pcfx -> generates a public class declaration for JavaFX and a main method.
+* pc -> generates a public class declaration
+* pcm -> generates the public class declaration with a main method
+* pcc -> generates the public class declaration with a constructor
+* pccm -> generates the public class declaration with a main method and constructor
+* pcfx -> generates a public class declaration for JavaFX and a main method.
 
 ##### Example
 
