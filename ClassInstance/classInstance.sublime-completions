@@ -1,7 +1,7 @@
 {
 	"scope": "source.java",
 	"completions":
-			[
+	[
 		{"trigger": "I-ASCII\tinit", "contents": "ASCII ${1:ascii} = new ASCII($2);"},
 		{"trigger": "I-ASCIIReader\tinit", "contents": "ASCIIReader ${1:reader} = new ASCIIReader($2);"},
 		{"trigger": "I-ASCII_CharStream\tinit", "contents": "ASCII_CharStream ${1:stream} = new ASCII_CharStream($2);"},
