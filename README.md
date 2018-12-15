@@ -132,6 +132,7 @@ public class Test extends Application{
 ```
 > ... and so on!
 
+> Check out [Intellekt plugin](https://github.com/tushortz/intellekt). It is meant to support various languages including Java and should originally be a replacement for JavaIME. It provides intellisense and code documentation features for Java and other languages.
 
 ## Installation
 > Important: You need to have `Package Control` installed first on your sublime text which can be found at [The Package Contol Website](http://packagecontrol.io)
